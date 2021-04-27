@@ -1,0 +1,230 @@
+[
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper_data.c /Fobuild\\win64\\multiscattering_core_loop_wrapper_data.obj",
+    "file": "multiscattering_core_loop_wrapper_data.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper_data.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper_initialize.c /Fobuild\\win64\\multiscattering_core_loop_wrapper_initialize.obj",
+    "file": "multiscattering_core_loop_wrapper_initialize.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper_initialize.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper_terminate.c /Fobuild\\win64\\multiscattering_core_loop_wrapper_terminate.obj",
+    "file": "multiscattering_core_loop_wrapper_terminate.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper_terminate.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper.c /Fobuild\\win64\\multiscattering_core_loop_wrapper.obj",
+    "file": "multiscattering_core_loop_wrapper.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  mark_diviner_testpoints.c /Fobuild\\win64\\mark_diviner_testpoints.obj",
+    "file": "mark_diviner_testpoints.c",
+    "output": "build/win64/mark_diviner_testpoints.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  repmat.c /Fobuild\\win64\\repmat.obj",
+    "file": "repmat.c",
+    "output": "build/win64/repmat.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  colon.c /Fobuild\\win64\\colon.obj",
+    "file": "colon.c",
+    "output": "build/win64/colon.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  eml_int_forloop_overflow_check.c /Fobuild\\win64\\eml_int_forloop_overflow_check.obj",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  tic.c /Fobuild\\win64\\tic.obj",
+    "file": "tic.c",
+    "output": "build/win64/tic.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  timeKeeper.c /Fobuild\\win64\\timeKeeper.obj",
+    "file": "timeKeeper.c",
+    "output": "build/win64/timeKeeper.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  raytrace_tick.c /Fobuild\\win64\\raytrace_tick.obj",
+    "file": "raytrace_tick.c",
+    "output": "build/win64/raytrace_tick.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  error.c /Fobuild\\win64\\error.obj",
+    "file": "error.c",
+    "output": "build/win64/error.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  mexable_los2.c /Fobuild\\win64\\mexable_los2.obj",
+    "file": "mexable_los2.c",
+    "output": "build/win64/mexable_los2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  mexable_calculateLOS.c /Fobuild\\win64\\mexable_calculateLOS.obj",
+    "file": "mexable_calculateLOS.c",
+    "output": "build/win64/mexable_calculateLOS.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  linspace.c /Fobuild\\win64\\linspace.obj",
+    "file": "linspace.c",
+    "output": "build/win64/linspace.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  scalexpAlloc.c /Fobuild\\win64\\scalexpAlloc.obj",
+    "file": "scalexpAlloc.c",
+    "output": "build/win64/scalexpAlloc.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  mod.c /Fobuild\\win64\\mod.obj",
+    "file": "mod.c",
+    "output": "build/win64/mod.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  interp2.c /Fobuild\\win64\\interp2.obj",
+    "file": "interp2.c",
+    "output": "build/win64/interp2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  atan2.c /Fobuild\\win64\\atan2.obj",
+    "file": "atan2.c",
+    "output": "build/win64/atan2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  power.c /Fobuild\\win64\\power.obj",
+    "file": "power.c",
+    "output": "build/win64/power.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  eml_mtimes_helper.c /Fobuild\\win64\\eml_mtimes_helper.obj",
+    "file": "eml_mtimes_helper.c",
+    "output": "build/win64/eml_mtimes_helper.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  mtimes.c /Fobuild\\win64\\mtimes.obj",
+    "file": "mtimes.c",
+    "output": "build/win64/mtimes.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  toc.c /Fobuild\\win64\\toc.obj",
+    "file": "toc.c",
+    "output": "build/win64/toc.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  interface\\_coder_multiscattering_core_loop_wrapper_api.c /Fobuild\\win64\\_coder_multiscattering_core_loop_wrapper_api.obj",
+    "file": "interface/_coder_multiscattering_core_loop_wrapper_api.c",
+    "output": "build/win64/_coder_multiscattering_core_loop_wrapper_api.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  interface\\_coder_multiscattering_core_loop_wrapper_mex.c /Fobuild\\win64\\_coder_multiscattering_core_loop_wrapper_mex.obj",
+    "file": "interface/_coder_multiscattering_core_loop_wrapper_mex.c",
+    "output": "build/win64/_coder_multiscattering_core_loop_wrapper_mex.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  sort.c /Fobuild\\win64\\sort.obj",
+    "file": "sort.c",
+    "output": "build/win64/sort.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  sortIdx.c /Fobuild\\win64\\sortIdx.obj",
+    "file": "sortIdx.c",
+    "output": "build/win64/sortIdx.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop.c /Fobuild\\win64\\multiscattering_core_loop.obj",
+    "file": "multiscattering_core_loop.c",
+    "output": "build/win64/multiscattering_core_loop.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  sind.c /Fobuild\\win64\\sind.obj",
+    "file": "sind.c",
+    "output": "build/win64/sind.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  cosd.c /Fobuild\\win64\\cosd.obj",
+    "file": "cosd.c",
+    "output": "build/win64/cosd.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  tand.c /Fobuild\\win64\\tand.obj",
+    "file": "tand.c",
+    "output": "build/win64/tand.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  cos.c /Fobuild\\win64\\cos.obj",
+    "file": "cos.c",
+    "output": "build/win64/cos.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  sin.c /Fobuild\\win64\\sin.obj",
+    "file": "sin.c",
+    "output": "build/win64/sin.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper_emxutil.c /Fobuild\\win64\\multiscattering_core_loop_wrapper_emxutil.obj",
+    "file": "multiscattering_core_loop_wrapper_emxutil.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper_emxutil.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  multiscattering_core_loop_wrapper_mexutil.c /Fobuild\\win64\\multiscattering_core_loop_wrapper_mexutil.obj",
+    "file": "multiscattering_core_loop_wrapper_mexutil.c",
+    "output": "build/win64/multiscattering_core_loop_wrapper_mexutil.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  interface\\_coder_multiscattering_core_loop_wrapper_info.c /Fobuild\\win64\\_coder_multiscattering_core_loop_wrapper_info.obj",
+    "file": "interface/_coder_multiscattering_core_loop_wrapper_info.c",
+    "output": "build/win64/_coder_multiscattering_core_loop_wrapper_info.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\multiscattering_core_loop_wrapper",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=multiscattering_core_loop_wrapper_mex /openmp /wd4101  \"C:\\Program Files\\MATLAB\\R2020b\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "C:/Program Files/MATLAB/R2020b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]

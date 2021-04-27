@@ -1,0 +1,48 @@
+What follows is a quick guide to parts of the program which one might want to change for scientific reasons.
+
+--------------------------------------------
+IGNORING PSR PIXELS IN SHADOWING SUBROUTINE:
+--------------------------------------------
+By default the shadowing model checks if sunlight has *ever* hit a pixel element, otherwise it returns nothing (NaN) for that pixel. This behaviour can be easily reverted.
+Go to shadowing_timeloop and instead of initialising this bool as false, initialise it to true.
+
+shadowing_timeloop()
+78| HAS_EVER_BEEN_ILLUMINATED = false;     ----> 78| HAS_EVER_BEEN_ILLUMINATED = true;
+
+----------------------------
+SAVING ARBRITRAY TIMEPOINTS:
+----------------------------
+The program does NOT return full time-series of data of every simulated temperature, as for large regions this data would stretch into the 100s of GBs. Instead, only the all-time max/min temperatures for each pixel (and each layer within that pixel) are saved. That said, a small number of temperatures are ALSO saved at a the sample timepoints defined in "mark_diviner_testpoints()" (for comparison purposes to measured data).
+
+If one wanted to save a specific range of temperatures (eg: save a full lunar day, or only save times during sunrise/sunset etc), they can edit the "mark_diviner_testpoints()" program and set their own "sample_timepoints" cell matrix. Note that times are in julian date format. Each entry in the matrix (sample_timepoints{lat, long}) is a list of timepoints to save temperatures at for the given lat/long coordinate.
+
+NB: A slight pain here is that the program currently only saves *errors*, not the actual temperatures. Those who enjoy living dangerously can avail themselves of one of two easy hacks to fix this:
+1) Tweak the error-saving routine to save temperatures instead by just replacing:
+
+For the shadowing model:
+shadowing_timeloop()
+	121| T_error_local(sample_idx) = T_pred_interpolated - T_measured;             -----> 121| T_error_local(sample_idx) = T_pred_interpolated;
+
+For the multiscattering model:
+multiscattering_core_loop_wrapper()
+	316| T_error_3dmat{slat, slong}(local_ptr) = T_pred_interpolated - T_measured;  ----> 316| T_error_3dmat{slat, slong}(local_ptr) = T_pred_interpolated;
+
+2) Go into mark_diviner_testpoints() and set every single 'measured Diviner temperature' to 0 K, so that the error will just be the negative of the simulated temperatures.
+
+mark_diviner_temperatures()
+	52| sample_surface_temperatures{lat_idx, long_idx} = 0
+
+The downside of these hacks is that you will end up with confusingly misnamed variables, where the "errors" are actually the temperatures. Better hope you have a good memory and don't get mixed up!
+Doing things the "correct" way and adding a proper selection option/flag would be a straightforward but tedious task (possibly worthwhile though).
+
+-----------------
+CUSTOM RAYTRACING
+-----------------
+The current raytracing algorithm (XDraw, MATLAB's default) is awkward to convert into GPU code. One may find it profitable to hand-code a different raytracing algorithm (eg: a GPU-compatible one), in which case the relevant functions to modify are:
+	Multiscattering:
+	raytrace_tick  | Raytraces all surface elements at a single timepoint (i.e. constant Sun location)
+
+	Shadowing:
+	raytrace_pixel | Raytraces all timesteps for a single surface element (i.e. constant lat/lon, slope, aspect)
+
+

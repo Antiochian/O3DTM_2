@@ -1,0 +1,326 @@
+[
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop_data.c /Fobuild\\win64\\shadowing_latlon_loop_data.obj",
+    "file": "shadowing_latlon_loop_data.c",
+    "output": "build/win64/shadowing_latlon_loop_data.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  rt_nonfinite.c /Fobuild\\win64\\rt_nonfinite.obj",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop_initialize.c /Fobuild\\win64\\shadowing_latlon_loop_initialize.obj",
+    "file": "shadowing_latlon_loop_initialize.c",
+    "output": "build/win64/shadowing_latlon_loop_initialize.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop_terminate.c /Fobuild\\win64\\shadowing_latlon_loop_terminate.obj",
+    "file": "shadowing_latlon_loop_terminate.c",
+    "output": "build/win64/shadowing_latlon_loop_terminate.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop.c /Fobuild\\win64\\shadowing_latlon_loop.obj",
+    "file": "shadowing_latlon_loop.c",
+    "output": "build/win64/shadowing_latlon_loop.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mark_diviner_testpoints.c /Fobuild\\win64\\mark_diviner_testpoints.obj",
+    "file": "mark_diviner_testpoints.c",
+    "output": "build/win64/mark_diviner_testpoints.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  repmat.c /Fobuild\\win64\\repmat.obj",
+    "file": "repmat.c",
+    "output": "build/win64/repmat.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  assertValidSizeArg.c /Fobuild\\win64\\assertValidSizeArg.obj",
+    "file": "assertValidSizeArg.c",
+    "output": "build/win64/assertValidSizeArg.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  colon.c /Fobuild\\win64\\colon.obj",
+    "file": "colon.c",
+    "output": "build/win64/colon.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  eml_int_forloop_overflow_check.c /Fobuild\\win64\\eml_int_forloop_overflow_check.obj",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  tic.c /Fobuild\\win64\\tic.obj",
+    "file": "tic.c",
+    "output": "build/win64/tic.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  timeKeeper.c /Fobuild\\win64\\timeKeeper.obj",
+    "file": "timeKeeper.c",
+    "output": "build/win64/timeKeeper.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mean.c /Fobuild\\win64\\mean.obj",
+    "file": "mean.c",
+    "output": "build/win64/mean.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mexable_viewshed.c /Fobuild\\win64\\mexable_viewshed.obj",
+    "file": "mexable_viewshed.c",
+    "output": "build/win64/mexable_viewshed.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mexable_calculateLOS.c /Fobuild\\win64\\mexable_calculateLOS.obj",
+    "file": "mexable_calculateLOS.c",
+    "output": "build/win64/mexable_calculateLOS.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  linspace.c /Fobuild\\win64\\linspace.obj",
+    "file": "linspace.c",
+    "output": "build/win64/linspace.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  scalexpAlloc.c /Fobuild\\win64\\scalexpAlloc.obj",
+    "file": "scalexpAlloc.c",
+    "output": "build/win64/scalexpAlloc.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mod.c /Fobuild\\win64\\mod.obj",
+    "file": "mod.c",
+    "output": "build/win64/mod.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mod1.c /Fobuild\\win64\\mod1.obj",
+    "file": "mod1.c",
+    "output": "build/win64/mod1.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  interp2.c /Fobuild\\win64\\interp2.obj",
+    "file": "interp2.c",
+    "output": "build/win64/interp2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  atan2.c /Fobuild\\win64\\atan2.obj",
+    "file": "atan2.c",
+    "output": "build/win64/atan2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  nullAssignment.c /Fobuild\\win64\\nullAssignment.obj",
+    "file": "nullAssignment.c",
+    "output": "build/win64/nullAssignment.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  find.c /Fobuild\\win64\\find.obj",
+    "file": "find.c",
+    "output": "build/win64/find.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  indexShapeCheck.c /Fobuild\\win64\\indexShapeCheck.obj",
+    "file": "indexShapeCheck.c",
+    "output": "build/win64/indexShapeCheck.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  warning.c /Fobuild\\win64\\warning.obj",
+    "file": "warning.c",
+    "output": "build/win64/warning.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  scattering_coefficients.c /Fobuild\\win64\\scattering_coefficients.obj",
+    "file": "scattering_coefficients.c",
+    "output": "build/win64/scattering_coefficients.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  my_geodetic2aer.c /Fobuild\\win64\\my_geodetic2aer.obj",
+    "file": "my_geodetic2aer.c",
+    "output": "build/win64/my_geodetic2aer.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mpower.c /Fobuild\\win64\\mpower.obj",
+    "file": "mpower.c",
+    "output": "build/win64/mpower.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  raytrace_pixel.c /Fobuild\\win64\\raytrace_pixel.obj",
+    "file": "raytrace_pixel.c",
+    "output": "build/win64/raytrace_pixel.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  abs.c /Fobuild\\win64\\abs.obj",
+    "file": "abs.c",
+    "output": "build/win64/abs.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  my_aer2geodetic.c /Fobuild\\win64\\my_aer2geodetic.obj",
+    "file": "my_aer2geodetic.c",
+    "output": "build/win64/my_aer2geodetic.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  hypot.c /Fobuild\\win64\\hypot.obj",
+    "file": "hypot.c",
+    "output": "build/win64/hypot.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  atan2d.c /Fobuild\\win64\\atan2d.obj",
+    "file": "atan2d.c",
+    "output": "build/win64/atan2d.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  mexable_los2.c /Fobuild\\win64\\mexable_los2.obj",
+    "file": "mexable_los2.c",
+    "output": "build/win64/mexable_los2.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  toc.c /Fobuild\\win64\\toc.obj",
+    "file": "toc.c",
+    "output": "build/win64/toc.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  interface\\_coder_shadowing_latlon_loop_api.c /Fobuild\\win64\\_coder_shadowing_latlon_loop_api.obj",
+    "file": "interface/_coder_shadowing_latlon_loop_api.c",
+    "output": "build/win64/_coder_shadowing_latlon_loop_api.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  interface\\_coder_shadowing_latlon_loop_mex.c /Fobuild\\win64\\_coder_shadowing_latlon_loop_mex.obj",
+    "file": "interface/_coder_shadowing_latlon_loop_mex.c",
+    "output": "build/win64/_coder_shadowing_latlon_loop_mex.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  sin.c /Fobuild\\win64\\sin.obj",
+    "file": "sin.c",
+    "output": "build/win64/sin.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  cos.c /Fobuild\\win64\\cos.obj",
+    "file": "cos.c",
+    "output": "build/win64/cos.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  useConstantDim.c /Fobuild\\win64\\useConstantDim.obj",
+    "file": "useConstantDim.c",
+    "output": "build/win64/useConstantDim.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  round.c /Fobuild\\win64\\round.obj",
+    "file": "round.c",
+    "output": "build/win64/round.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  cosd.c /Fobuild\\win64\\cosd.obj",
+    "file": "cosd.c",
+    "output": "build/win64/cosd.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  sind.c /Fobuild\\win64\\sind.obj",
+    "file": "sind.c",
+    "output": "build/win64/sind.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_timeloop.c /Fobuild\\win64\\shadowing_timeloop.obj",
+    "file": "shadowing_timeloop.c",
+    "output": "build/win64/shadowing_timeloop.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  acos.c /Fobuild\\win64\\acos.obj",
+    "file": "acos.c",
+    "output": "build/win64/acos.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  asind.c /Fobuild\\win64\\asind.obj",
+    "file": "asind.c",
+    "output": "build/win64/asind.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  cotd.c /Fobuild\\win64\\cotd.obj",
+    "file": "cotd.c",
+    "output": "build/win64/cotd.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  tand.c /Fobuild\\win64\\tand.obj",
+    "file": "tand.c",
+    "output": "build/win64/tand.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  acosd.c /Fobuild\\win64\\acosd.obj",
+    "file": "acosd.c",
+    "output": "build/win64/acosd.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  temperature_sim_pixel_tick.c /Fobuild\\win64\\temperature_sim_pixel_tick.obj",
+    "file": "temperature_sim_pixel_tick.c",
+    "output": "build/win64/temperature_sim_pixel_tick.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop_emxutil.c /Fobuild\\win64\\shadowing_latlon_loop_emxutil.obj",
+    "file": "shadowing_latlon_loop_emxutil.c",
+    "output": "build/win64/shadowing_latlon_loop_emxutil.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  shadowing_latlon_loop_mexutil.c /Fobuild\\win64\\shadowing_latlon_loop_mexutil.obj",
+    "file": "shadowing_latlon_loop_mexutil.c",
+    "output": "build/win64/shadowing_latlon_loop_mexutil.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  interface\\_coder_shadowing_latlon_loop_info.c /Fobuild\\win64\\_coder_shadowing_latlon_loop_info.obj",
+    "file": "interface/_coder_shadowing_latlon_loop_info.c",
+    "output": "build/win64/_coder_shadowing_latlon_loop_info.obj"
+  },
+  {
+    "directory": "H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\codegen\\mex\\shadowing_latlon_loop",
+    "command": "cl /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I \".\" /I \"H:\\Documents\\O3DTM_stripped_down\\raw_mexable_files\" /I \".\\interface\" /I \"C:\\Program Files\\MATLAB\\R2020b\\extern\\include\" /I \".\" -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101  \"C:\\Program Files\\MATLAB\\R2020b\\extern\\version\\c_mexapi_version.c\" /Fobuild\\win64\\c_mexapi_version.obj",
+    "file": "C:/Program Files/MATLAB/R2020b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.obj"
+  }
+]

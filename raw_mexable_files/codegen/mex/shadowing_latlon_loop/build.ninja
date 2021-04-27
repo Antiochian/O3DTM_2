@@ -1,0 +1,95 @@
+# CompilerName=msvc160
+# Mode=optim
+ninja_required_version = 1.3
+
+# Basic folders
+root = .
+builddir = $root\build\win64
+matlabdir = C:\Program Files\MATLAB\R2020b
+startdir = \\rivendell.physics.ox.ac.uk\user\students\2017\trin3161\Documents\O3DTM_stripped_down\raw_mexable_files
+
+# Toolchain information
+cc = cl
+cxx = cl
+linker = link
+linkerxx = link
+
+cflags =  /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
+
+cxxflags =   /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
+
+ldflags =  /nologo /manifest   /DLL /LIBPATH:"$matlabdir\extern\lib\win64\microsoft" libmx.lib libmex.lib libmat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  /out:"shadowing_latlon_loop_mex.mexw64" libemlrt.lib libcovrt.lib libut.lib libmwmathutil.lib libiomp5md.lib /nodefaultlib:vcomp /LIBPATH:"$matlabdir\bin\win64" /export:mexFunction /export:mexfilerequiredapiversion /export:emlrtMexFcnProperties /export:shadowing_latlon_loop /export:shadowing_latlon_loop_initialize /export:shadowing_latlon_loop_terminate /export:shadowing_latlon_loop_atexit /export:error /export:d_feval /export:emlrt_marshallIn /export:b_emlrt_marshallIn /export:bb_emlrt_marshallIn /export:emxFree_boolean_T /export:emxFree_real32_T /export:emxFree_int8_T /export:emxFree_int32_T /export:emxEnsureCapacity_boolean_T /export:emxEnsureCapacity_int32_T /export:emxInit_boolean_T /export:emxInit_int32_T /export:emxEnsureCapacity_int8_T /export:emxEnsureCapacity_real32_T /export:emxInit_real32_T /export:emxInit_int8_T /export:emxFreeStruct_struct_T2 /export:emxFreeStruct_struct_T1 /export:emxFreeStruct_struct_T /export:emxEnsureCapacity_cell_wrap_0 /export:emxTrim_cell_wrap_0 /export:emxExpand_cell_wrap_0 /export:emxInitStruct_cell_wrap_0 /export:emxInitStruct_struct_T2 /export:emxInitStruct_struct_T1 /export:emxInitStruct_struct_T /export:emxFreeStruct_struct4_T /export:emxFreeStruct_struct1_T /export:emxFree_cell_wrap_0 /export:emxFreeStruct_cell_wrap_0 /export:emxFree_real_T /export:emxInit_cell_wrap_0 /export:emxInitStruct_struct4_T /export:emxInitStruct_struct1_T /export:emxInit_real_T /export:emxEnsureCapacity_real_T
+
+# Build Rules
+rule cc
+    command = $cc $cflags $in /Fo$out
+
+rule cxx
+    command = $cxx $cxxflags $in /Fo$out
+
+rule link
+    command = $linker @$out.rsp $ldflags
+    rspfile = $out.rsp
+    rspfile_content = $in
+
+rule linkxx
+    command = $linkerxx $in $ldflags
+
+# Build
+build $builddir\shadowing_latlon_loop_data.obj : cc $root\shadowing_latlon_loop_data.c
+build $builddir\rt_nonfinite.obj : cc $root\rt_nonfinite.c
+build $builddir\shadowing_latlon_loop_initialize.obj : cc $root\shadowing_latlon_loop_initialize.c
+build $builddir\shadowing_latlon_loop_terminate.obj : cc $root\shadowing_latlon_loop_terminate.c
+build $builddir\shadowing_latlon_loop.obj : cc $root\shadowing_latlon_loop.c
+build $builddir\mark_diviner_testpoints.obj : cc $root\mark_diviner_testpoints.c
+build $builddir\repmat.obj : cc $root\repmat.c
+build $builddir\assertValidSizeArg.obj : cc $root\assertValidSizeArg.c
+build $builddir\colon.obj : cc $root\colon.c
+build $builddir\eml_int_forloop_overflow_check.obj : cc $root\eml_int_forloop_overflow_check.c
+build $builddir\tic.obj : cc $root\tic.c
+build $builddir\timeKeeper.obj : cc $root\timeKeeper.c
+build $builddir\mean.obj : cc $root\mean.c
+build $builddir\mexable_viewshed.obj : cc $root\mexable_viewshed.c
+build $builddir\mexable_calculateLOS.obj : cc $root\mexable_calculateLOS.c
+build $builddir\linspace.obj : cc $root\linspace.c
+build $builddir\scalexpAlloc.obj : cc $root\scalexpAlloc.c
+build $builddir\mod.obj : cc $root\mod.c
+build $builddir\mod1.obj : cc $root\mod1.c
+build $builddir\interp2.obj : cc $root\interp2.c
+build $builddir\atan2.obj : cc $root\atan2.c
+build $builddir\nullAssignment.obj : cc $root\nullAssignment.c
+build $builddir\find.obj : cc $root\find.c
+build $builddir\indexShapeCheck.obj : cc $root\indexShapeCheck.c
+build $builddir\warning.obj : cc $root\warning.c
+build $builddir\scattering_coefficients.obj : cc $root\scattering_coefficients.c
+build $builddir\my_geodetic2aer.obj : cc $root\my_geodetic2aer.c
+build $builddir\mpower.obj : cc $root\mpower.c
+build $builddir\raytrace_pixel.obj : cc $root\raytrace_pixel.c
+build $builddir\abs.obj : cc $root\abs.c
+build $builddir\my_aer2geodetic.obj : cc $root\my_aer2geodetic.c
+build $builddir\hypot.obj : cc $root\hypot.c
+build $builddir\atan2d.obj : cc $root\atan2d.c
+build $builddir\mexable_los2.obj : cc $root\mexable_los2.c
+build $builddir\toc.obj : cc $root\toc.c
+build $builddir\_coder_shadowing_latlon_loop_api.obj : cc $root\interface\_coder_shadowing_latlon_loop_api.c
+build $builddir\_coder_shadowing_latlon_loop_mex.obj : cc $root\interface\_coder_shadowing_latlon_loop_mex.c
+build $builddir\sin.obj : cc $root\sin.c
+build $builddir\cos.obj : cc $root\cos.c
+build $builddir\useConstantDim.obj : cc $root\useConstantDim.c
+build $builddir\round.obj : cc $root\round.c
+build $builddir\cosd.obj : cc $root\cosd.c
+build $builddir\sind.obj : cc $root\sind.c
+build $builddir\shadowing_timeloop.obj : cc $root\shadowing_timeloop.c
+build $builddir\acos.obj : cc $root\acos.c
+build $builddir\asind.obj : cc $root\asind.c
+build $builddir\cotd.obj : cc $root\cotd.c
+build $builddir\tand.obj : cc $root\tand.c
+build $builddir\acosd.obj : cc $root\acosd.c
+build $builddir\temperature_sim_pixel_tick.obj : cc $root\temperature_sim_pixel_tick.c
+build $builddir\shadowing_latlon_loop_emxutil.obj : cc $root\shadowing_latlon_loop_emxutil.c
+build $builddir\shadowing_latlon_loop_mexutil.obj : cc $root\shadowing_latlon_loop_mexutil.c
+build $builddir\_coder_shadowing_latlon_loop_info.obj : cc $root\interface\_coder_shadowing_latlon_loop_info.c
+build $builddir\c_mexapi_version.obj : cc $matlabdir\extern\version\c_mexapi_version.c
+
+# Link
+build $root\shadowing_latlon_loop_mex.mexw64 : link $builddir\shadowing_latlon_loop_data.obj $builddir\rt_nonfinite.obj $builddir\shadowing_latlon_loop_initialize.obj $builddir\shadowing_latlon_loop_terminate.obj $builddir\shadowing_latlon_loop.obj $builddir\mark_diviner_testpoints.obj $builddir\repmat.obj $builddir\assertValidSizeArg.obj $builddir\colon.obj $builddir\eml_int_forloop_overflow_check.obj $builddir\tic.obj $builddir\timeKeeper.obj $builddir\mean.obj $builddir\mexable_viewshed.obj $builddir\mexable_calculateLOS.obj $builddir\linspace.obj $builddir\scalexpAlloc.obj $builddir\mod.obj $builddir\mod1.obj $builddir\interp2.obj $builddir\atan2.obj $builddir\nullAssignment.obj $builddir\find.obj $builddir\indexShapeCheck.obj $builddir\warning.obj $builddir\scattering_coefficients.obj $builddir\my_geodetic2aer.obj $builddir\mpower.obj $builddir\raytrace_pixel.obj $builddir\abs.obj $builddir\my_aer2geodetic.obj $builddir\hypot.obj $builddir\atan2d.obj $builddir\mexable_los2.obj $builddir\toc.obj $builddir\_coder_shadowing_latlon_loop_api.obj $builddir\_coder_shadowing_latlon_loop_mex.obj $builddir\sin.obj $builddir\cos.obj $builddir\useConstantDim.obj $builddir\round.obj $builddir\cosd.obj $builddir\sind.obj $builddir\shadowing_timeloop.obj $builddir\acos.obj $builddir\asind.obj $builddir\cotd.obj $builddir\tand.obj $builddir\acosd.obj $builddir\temperature_sim_pixel_tick.obj $builddir\shadowing_latlon_loop_emxutil.obj $builddir\shadowing_latlon_loop_mexutil.obj $builddir\_coder_shadowing_latlon_loop_info.obj $builddir\c_mexapi_version.obj 

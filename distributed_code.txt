@@ -1,3 +1,0 @@
-disp('a') $AVOID{oliverspc2}
-disp('v') $RUNNING{oliverspc2} $DONE{oliverspc2}
-fprintf('hello\n')

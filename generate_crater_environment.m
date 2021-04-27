@@ -1,78 +1,31 @@
-function data = generate_crater_environment(crater_name, generate_solar_angles, generate_compressed_environment, generate_compressed_solar_angles)
+function data = generate_crater_environment(crater_name)
 % GENERATE_CRATER_ENVIRONMET generates crater environment data used for 3D
 % modelling. Crater names and lat/long limits are defined below.
-%
-% data = GENERATE_CRATER_ENVIRONMENT(...) generates crater environment,
-% saves it and returns environment data file
-%
-% ... = GENERATE_CRATER_ENVIRONMENT(crater_name) generates_environment for
-% crater_name
-% 
-% ... = GENERATE_CRATER_ENVIRONMENT(crater_name, generate_solar_angles)
-% defines if solar angles should be calculated for crater (default=true)
-% 
-% ... = GENERATE_CRATER_ENVIRONMENT(crater_name, generate_solar_angles,
-% generate_compressed_environment) defines if compressed environment should
-% be calculated for crater (default=false)
-% 
-% ... = GENERATE_CRATER_ENVIRONMENT(crater_name, generate_solar_angles,
-% generate_compressed_solar_angles) defines if compressed environment
-% should have solar angles calculated (default=generate_solar_angles)
 
 
 %% Set up
 if nargin == 0
     crater_name = 'all';
+    warning("No crater selected. Defaulting to: %s", crater_name);
 end
-if nargin < 2
-    generate_solar_angles = true;
-end
-if nargin < 3
-    generate_compressed_environment = false;
-end
-if nargin < 4
-    generate_compressed_solar_angles = generate_solar_angles;
-end
+
+%% Set up crater
+% Nasty legacy code which selects one of (many) hardcoded locations on the
+% moon. Some have unique names (eg: 'blagg', 'bruce', 'erlanger'), but most
+% follow the format 'lsX_Yppd' where:
+%                       X = ID number of crater
+%                       Y = pixels-per-degree (resolution) of sim
+%
+% Also the suffix "_wide" can be appended for a wider plot of land.
+
 switch crater_name
+    %% Unique pre-programmed crater names
     case 'all'
         generate_crater_environment('61n');
         generate_crater_environment('88s');
         generate_crater_environment('bruce');
         generate_crater_environment('blagg');
         generate_crater_environment('erlanger');
-%         for idx = flip(1:8)
-%             generate_crater_environment(sprintf('ls%d', idx));
-%         end
-        return
-%     case 'ls'
-%         for idx = flip(1:8)
-%             generate_crater_environment(sprintf('ls%d', idx));
-%         end
-%         return
-    case 'ls_4ppd'
-        for idx = flip(1:8)
-            generate_crater_environment(sprintf('ls%d_4ppd', idx));
-        end
-        return
-    case 'ls_128ppd'
-        for idx = flip(1:8)
-            generate_crater_environment(sprintf('ls%d_128ppd', idx));
-        end
-        return
-    case 'ls_4ppd_wide'
-        for idx = flip(1:8)
-            generate_crater_environment(sprintf('ls%d_4ppd_wide', idx), false, true, true);
-        end
-        return
-    case 'ls_16ppd_wide'
-        for idx = flip(1:8)
-            generate_crater_environment(sprintf('ls%d_16ppd_wide', idx), false, true, true);
-        end
-        return
-    case 'ls_128ppd_wide'
-        for idx = flip(1:8)
-            generate_crater_environment(sprintf('ls%d_128ppd_wide', idx), false, true, true);
-        end
         return
     case 'bruce'
         lat_min = 1.0;
@@ -86,12 +39,24 @@ switch crater_name
         long_min = 1.35;
         long_max = 1.6;
         ppd = 128;
-    case 'blagg4'
+    case 'blagg4' %ultra-small 4ppd version of blagg
         lat_min = 0.95;
         lat_max = 1.55;
         long_min = 1.20;
         long_max = 1.80;
         ppd = 4;
+    case 'blagg16'
+        lat_min = 0.95;
+        lat_max = 1.55;
+        long_min = 1.20;
+        long_max = 1.80;
+        ppd = 16;
+    case 'blagg16_large'
+        lat_min = 0.3;
+        lat_max = 2.5;
+        long_min = 0.01;
+        long_max = 6.95;
+        ppd = 16;
     case 'erlanger'
         lat_min = 86.7;
         lat_max = 87.2;
@@ -110,26 +75,13 @@ switch crater_name
         long_min = -2.08;
         long_max = -1.80;
         ppd = 128;
-%         Landing site #		latitude	longitude
-%         1			-79.30		-56.00
-%         2			-80.56		-37.10
-%         3			-81.24		68.99
-%         4			-81.35		22.80
-%         5			-84.25		-4.65
-%         6			-84.33		33.19
-%         7			-85.33		-4.78
-%         8*			-82.70		33.50
-% https://quickmap.lroc.asu.edu/?layers=NrBsFYBoAZIRnpEoAsjZwLpNKG%2BscB2fDbMADlPnNAE5rDgjZWakiE2mAmOuqt3J9%2BjTOKQ9QPAohBSuiJgGZoPKgi4A6ZcuEVV6GFqLhx5OHCjckwS2iFJLJR8FXRFZJMrhqxkik5-O0NXOB9g8OVI5Tww5RcCC2UGV3VlGTTAzKSnFDYvYHV6MQk3HhyMWwzFTXNvaBTqaC0oEFV80vJVZQdSVurG6ySynuibdrVU-rMG0Jnuxs9jWbdGypX6t2lGatBllp5V2PGF71Rm1u6IS7NRxsEZwdjbxYTX0aI%2BqvaiU9YtFZFjxvsYgQ0jpdwWspFDjmpEgCgZ84rJfsNCglHpiiNNMRQCuw3BRlioKBsyf8icoKKCsGV8oSEO1RK5VDwqSo1BStrFEXJtqjMaBsUT1CxgrE8dSJWygnKeQyQbsQCgOZc9Eg1RjjJrgGqhcY6FsUOBObZTTyteAdS07os4NLmWtoIaudA6YtGpLoL7guAeEz9KBOcGdbwKBcsrhgsVRfTyOArLJnUnPUgk-ymEn44nHf6eAcTImKkYWkRgyRNNTfVaXeHzJggA&probeTool=33.51195547%2C-82.70705462&extent=-120.98977689607486%2C-53.993956418505554%2C120.73450462459725%2C-50.63083898119902&proj=17
-    % *** ADD NEW CRATER ENVIRONMENTS HERE ***
+
     otherwise
+        %% Crater ID #s
         if strcmp(crater_name(1:2), 'ls')
-            %%%need to add if double or single digit?
-            %%is crater_name(4) a digit?
-            if(~isnan(str2double('crater_name(4)')) == 1)
-                crater_numel = str2double(carter_name(3:4));
-            else
-                crater_numel = str2double(carter_name(3));
-            end
+            uscore_idx = strfind(crater_name, '_');
+            crater_numel = crater_name(3:uscore_idx-1);
+            % *** ADD NEW CRATER ENVIRONMENTS HERE ***
             switch crater_numel
                 case '1'
                     ls_lat = -79.30;
@@ -155,28 +107,54 @@ switch crater_name
                 case '8'
                     ls_lat = -82.70;
                     ls_long = 33.50;
+                case '992'
+                    ls_lat = -82;
+                    ls_long = 30;
                 otherwise
                     error('Unknown crater')
             end
+            %% Decide resolution of simulation
             if strcmp(crater_name(end-4:end), '_4ppd')
-               lat_buffer = 4;
-               long_buffer = 4;
+               lat_buffer = 2;
+               long_buffer = 2;
                ppd = 4;
+            elseif strcmp(crater_name(end-5:end), '_16ppd')
+                lat_buffer = 2;
+                long_buffer = 2;
+                ppd = 16;
             elseif strcmp(crater_name(end-6:end), '_128ppd')
-                lat_buffer = 0.15;
-                long_buffer = 0.15;
+                lat_buffer = 2;
+                long_buffer = 2;
                 ppd = 128;
             elseif strcmp(crater_name(end-11:end), '_128ppd_wide')
-                lat_buffer = 0.15;
-                long_buffer = 0.75;
+                lat_buffer = 2;
+                long_buffer = 10;
+                ppd = 128;
+            elseif strcmp(crater_name(end-12:end), '_128ppd_strip')
+                lat_buffer = 2;
+                long_buffer = 0.70/2;
+                ppd = 128;
+            elseif strcmp(crater_name(end-13:end), '_128ppd_crater')
+                ls_lat = ls_lat + 2;
+                lat_buffer = 2;
+                long_buffer = 4;
                 ppd = 128;
             elseif strcmp(crater_name(end-10:end), '_16ppd_wide')
                 lat_buffer = 2;
                 long_buffer = 10;
                 ppd = 16;
             elseif strcmp(crater_name(end-9:end), '_4ppd_wide')
-                lat_buffer = 4;
-                long_buffer = 20;
+                lat_buffer = 2;
+                long_buffer = 10;
+                ppd = 4;
+            elseif strcmp(crater_name(end-11:end), '_4ppd_narrow')
+                lat_buffer = 0.25;
+                long_buffer = 1.25;
+                ppd = 4;
+            elseif strcmp(crater_name(end-11:end), '_4ppd_crater')
+                ls_lat = ls_lat + 2;
+                lat_buffer = 2;
+                long_buffer = 4;
                 ppd = 4;
             end
             lat_min = ls_lat - lat_buffer;
@@ -188,10 +166,14 @@ switch crater_name
         end
 end
 %% Load LOLA data
+%reads in elevation data for various lat/longs taken from LOLA measurements
 fprintf('Loading LOLA elevation data... ')
 [elevation_matrix, lat_arr, long_arr] = read_lola_height_data(ppd, [lat_min, lat_max], [long_min, long_max]);
 
 % get distances
+%converts the lat/lon measurements into cartesian X-Y coordinates which
+%are loaded into xEast and yNorth such that the cartesian coordinates for
+%point "i" are [xEast(lat(i), lon(i) , yNorth(lat(i), lon(i))]
 ref_sphere = referenceSphere('moon');
 center_lat = mean(lat_arr);
 center_long = mean(long_arr);
@@ -212,23 +194,26 @@ fprintf('Done\n')
 %% Get A0 data
 fprintf('Calculating albedo data... ')
 if ppd > 4
-    albedo_ppd = 8;
+    albedo_ppd = 8; %Lola doesnt have 16ppd data
 else
     albedo_ppd = 4;
 end
 [albedo_matrix, albedo_lat_arr, albedo_long_arr] = read_lola_A0_data(albedo_ppd); % use highest resolution albedo data possible
-parameters = define_parameters;
-albedo_matrix = scale_data(albedo_matrix, parameters.A0);
+%note here that the albedo_lat_arr, etc are the ALL lat/lons read by lola,
+%so (a) we need only a few of them and (b) some interpolation is required
+parameters = define_parameters; %get physical constants
+albedo_matrix = scale_data(albedo_matrix, parameters.A0); %scale LOLA data so average albedo matches bond albedo at normal solar incedence
 [albedo_long_matrix, albedo_lat_matrix] = meshgrid(albedo_long_arr, albedo_lat_arr);
 [long_matrix, lat_matrix] = meshgrid(long_arr, lat_arr);
+%interpolation step to provide albedo_matrix that matches long/lat_matrix
 albedo_matrix = interp2(albedo_long_matrix, albedo_lat_matrix, albedo_matrix, long_matrix, lat_matrix);
-A0 = mean(albedo_matrix(:));
+A0 = mean(albedo_matrix(:)); %Why do we set A0 like this? Shouldn't we scale it like we did in line 229?
 fprintf('Done\n')
 
 %% Load Diviner data
 fprintf('Loading Diviner temperature data...\n')
-[Tmax_matrix, Tmin_matrix, Tmax_ltim_matrix, Tmin_ltim_matrix, Tmax_dtm_matrix, Tmin_dtm_matrix] = find_diviner_extreme_temperatures(ppd, lat_arr, long_arr);
-
+[Tmax_matrix, Tmin_matrix, Tmax_ltim_matrix, Tmin_ltim_matrix, Tmax_dtm_matrix, Tmin_dtm_matrix, ~, ~, Tmean_matrix] = find_diviner_extreme_temperatures(ppd, lat_arr, long_arr, true);
+%
 
 %% Save data
 fprintf('Generating environment for "%s"... ', crater_name)
@@ -247,6 +232,7 @@ data.Tmax_dtm_matrix = Tmax_dtm_matrix;
 data.Tmin_matrix = Tmin_matrix;
 data.Tmin_ltim_matrix = Tmin_ltim_matrix;
 data.Tmin_dtm_matrix = Tmin_dtm_matrix;
+data.Tmean_matrix = Tmean_matrix;
 data.A0 = A0;
 data.ppd = ppd;
 data.description = 'Data for lunar crater';
@@ -255,16 +241,4 @@ data.created = datetime;
 target_name = create_static_path(sprintf('crater_environments/%s.mat', crater_name));
 save(target_name, 'data')
 fprintf('Done\n')
-if generate_solar_angles
-    generate_crater_ray_tracing(crater_name, false);
-    generate_crater_ray_tracing(crater_name, true);
-end
-if generate_compressed_environment
-    result = generate_compressed_crater_environment(crater_name);
-    if isfield(result, 'compression_ratio') && (generate_solar_angles || generate_compressed_solar_angles)
-        crater_name = sprintf('%s_compressed', crater_name);
-        generate_crater_ray_tracing(crater_name, false);
-        generate_crater_ray_tracing(crater_name, true);
-    end
-end
 end

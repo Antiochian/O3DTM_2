@@ -1,0 +1,71 @@
+# CompilerName=msvc160
+# Mode=optim
+ninja_required_version = 1.3
+
+# Basic folders
+root = .
+builddir = $root\build\win64
+matlabdir = C:\Program Files\MATLAB\R2020b
+startdir = \\rivendell.physics.ox.ac.uk\user\students\2017\trin3161\Documents\O3DTM_stripped_down\raw_mexable_files
+
+# Toolchain information
+cc = cl
+cxx = cl
+linker = link
+linkerxx = link
+
+cflags =  /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=combo_get_flux_coefficients_mex /openmp /wd4101 
+
+cxxflags =   /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=combo_get_flux_coefficients_mex /openmp /wd4101 
+
+ldflags =  /nologo /manifest   /DLL /LIBPATH:"$matlabdir\extern\lib\win64\microsoft" libmx.lib libmex.lib libmat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  /out:"combo_get_flux_coefficients_mex.mexw64" libemlrt.lib libcovrt.lib libut.lib libmwmathutil.lib libiomp5md.lib /nodefaultlib:vcomp /LIBPATH:"$matlabdir\bin\win64" /export:mexFunction /export:mexfilerequiredapiversion /export:emlrtMexFcnProperties /export:combo_get_flux_coefficients /export:combo_get_flux_coefficients_initialize /export:combo_get_flux_coefficients_terminate /export:combo_get_flux_coefficients_atexit /export:emlrt_marshallIn /export:b_emlrt_marshallIn /export:n_emlrt_marshallIn /export:emxFree_boolean_T /export:emxFree_int32_T /export:emxEnsureCapacity_int32_T /export:emxEnsureCapacity_boolean_T /export:emxInit_int32_T /export:emxInit_boolean_T /export:emxFree_real_T /export:emxInit_real_T /export:emxEnsureCapacity_real_T
+
+# Build Rules
+rule cc
+    command = $cc $cflags $in /Fo$out
+
+rule cxx
+    command = $cxx $cxxflags $in /Fo$out
+
+rule link
+    command = $linker @$out.rsp $ldflags
+    rspfile = $out.rsp
+    rspfile_content = $in
+
+rule linkxx
+    command = $linkerxx $in $ldflags
+
+# Build
+build $builddir\combo_get_flux_coefficients_data.obj : cc $root\combo_get_flux_coefficients_data.c
+build $builddir\rt_nonfinite.obj : cc $root\rt_nonfinite.c
+build $builddir\combo_get_flux_coefficients_initialize.obj : cc $root\combo_get_flux_coefficients_initialize.c
+build $builddir\combo_get_flux_coefficients_terminate.obj : cc $root\combo_get_flux_coefficients_terminate.c
+build $builddir\combo_get_flux_coefficients.obj : cc $root\combo_get_flux_coefficients.c
+build $builddir\mexable_viewshed.obj : cc $root\mexable_viewshed.c
+build $builddir\mexable_calculateLOS.obj : cc $root\mexable_calculateLOS.c
+build $builddir\linspace.obj : cc $root\linspace.c
+build $builddir\eml_int_forloop_overflow_check.obj : cc $root\eml_int_forloop_overflow_check.c
+build $builddir\scalexpAlloc.obj : cc $root\scalexpAlloc.c
+build $builddir\mod.obj : cc $root\mod.c
+build $builddir\mod1.obj : cc $root\mod1.c
+build $builddir\interp2.obj : cc $root\interp2.c
+build $builddir\atan2.obj : cc $root\atan2.c
+build $builddir\nullAssignment.obj : cc $root\nullAssignment.c
+build $builddir\find.obj : cc $root\find.c
+build $builddir\indexShapeCheck.obj : cc $root\indexShapeCheck.c
+build $builddir\warning.obj : cc $root\warning.c
+build $builddir\my_geodetic2aer.obj : cc $root\my_geodetic2aer.c
+build $builddir\mpower.obj : cc $root\mpower.c
+build $builddir\_coder_combo_get_flux_coefficients_api.obj : cc $root\interface\_coder_combo_get_flux_coefficients_api.c
+build $builddir\_coder_combo_get_flux_coefficients_mex.obj : cc $root\interface\_coder_combo_get_flux_coefficients_mex.c
+build $builddir\sin.obj : cc $root\sin.c
+build $builddir\round.obj : cc $root\round.c
+build $builddir\cosd.obj : cc $root\cosd.c
+build $builddir\sind.obj : cc $root\sind.c
+build $builddir\combo_get_flux_coefficients_emxutil.obj : cc $root\combo_get_flux_coefficients_emxutil.c
+build $builddir\combo_get_flux_coefficients_mexutil.obj : cc $root\combo_get_flux_coefficients_mexutil.c
+build $builddir\_coder_combo_get_flux_coefficients_info.obj : cc $root\interface\_coder_combo_get_flux_coefficients_info.c
+build $builddir\c_mexapi_version.obj : cc $matlabdir\extern\version\c_mexapi_version.c
+
+# Link
+build $root\combo_get_flux_coefficients_mex.mexw64 : link $builddir\combo_get_flux_coefficients_data.obj $builddir\rt_nonfinite.obj $builddir\combo_get_flux_coefficients_initialize.obj $builddir\combo_get_flux_coefficients_terminate.obj $builddir\combo_get_flux_coefficients.obj $builddir\mexable_viewshed.obj $builddir\mexable_calculateLOS.obj $builddir\linspace.obj $builddir\eml_int_forloop_overflow_check.obj $builddir\scalexpAlloc.obj $builddir\mod.obj $builddir\mod1.obj $builddir\interp2.obj $builddir\atan2.obj $builddir\nullAssignment.obj $builddir\find.obj $builddir\indexShapeCheck.obj $builddir\warning.obj $builddir\my_geodetic2aer.obj $builddir\mpower.obj $builddir\_coder_combo_get_flux_coefficients_api.obj $builddir\_coder_combo_get_flux_coefficients_mex.obj $builddir\sin.obj $builddir\round.obj $builddir\cosd.obj $builddir\sind.obj $builddir\combo_get_flux_coefficients_emxutil.obj $builddir\combo_get_flux_coefficients_mexutil.obj $builddir\_coder_combo_get_flux_coefficients_info.obj $builddir\c_mexapi_version.obj 
