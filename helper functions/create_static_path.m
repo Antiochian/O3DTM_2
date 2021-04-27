@@ -14,6 +14,10 @@ end
 % current location of your 'mphys_project_static' folder.
 
 % EG:  static_root = 'C:/user/O3DTM/mphys_project_static/';
-static_root = '\\rivendell.physics.ox.ac.uk\user\students\2017\trin3161\Documents\O3DTM_experimental\mphys_project_static\';
+static_root = '';
+if isempty(static_root)
+    error("No supplied static root of filesystem. Please supply one inside create_static_path.m"); %warn user if they forget to add path
+end
+
 static_path = [static_root, internal_path];
 end
