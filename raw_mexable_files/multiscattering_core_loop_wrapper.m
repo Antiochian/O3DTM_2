@@ -253,7 +253,7 @@ sample_T = sample_T(increasing_time_order);
 sample_weights = sample_weights(increasing_time_order);
 sample_lat = sample_lat(increasing_time_order);
 sample_long = sample_long(increasing_time_order);
-sample_jds = sample_jds(increasing_time_order);
+% sample_jds = sample_jds(increasing_time_order);
 
 sample_t_idx = [sample_t_idx, 0];
 
