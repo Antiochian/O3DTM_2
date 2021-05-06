@@ -25,153 +25,153 @@
 /* Variable Definitions */
 static emlrtRSInfo ib_emlrtRSI = { 19, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo jb_emlrtRSI = { 20, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo kb_emlrtRSI = { 24, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo lb_emlrtRSI = { 26, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo mb_emlrtRSI = { 32, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo nb_emlrtRSI = { 33, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ob_emlrtRSI = { 34, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo pb_emlrtRSI = { 38, /* lineNo */
   "mexable_viewshed",                  /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo yd_emlrtRSI = { 63, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ae_emlrtRSI = { 64, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo be_emlrtRSI = { 65, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ce_emlrtRSI = { 74, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo de_emlrtRSI = { 75, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ee_emlrtRSI = { 83, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo fe_emlrtRSI = { 84, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ge_emlrtRSI = { 90, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo he_emlrtRSI = { 89, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo ie_emlrtRSI = { 88, /* lineNo */
   "embed",                             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pathName */
 };
 
 static emlrtRSInfo te_emlrtRSI = { 35, /* lineNo */
   "find",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pathName */
 };
 
 static emlrtECInfo h_emlrtECI = { -1,  /* nDims */
   113,                                 /* lineNo */
   6,                                   /* colNo */
   "mexable_latitudeToIntrinsicY",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo i_emlrtECI = { -1,  /* nDims */
   94,                                  /* lineNo */
   1,                                   /* colNo */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo j_emlrtECI = { -1,  /* nDims */
   93,                                  /* lineNo */
   8,                                   /* colNo */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo k_emlrtECI = { -1,  /* nDims */
   80,                                  /* lineNo */
   12,                                  /* colNo */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo l_emlrtECI = { -1,  /* nDims */
   62,                                  /* lineNo */
   8,                                   /* colNo */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo m_emlrtECI = { 2,   /* nDims */
   193,                                 /* lineNo */
   9,                                   /* colNo */
   "mexable_intrinsicYToLatitude",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo n_emlrtECI = { -1,  /* nDims */
   44,                                  /* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtECInfo o_emlrtECI = { -1,  /* nDims */
   43,                                  /* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtBCInfo ed_emlrtBCI = { -1, /* iFirst */
@@ -180,7 +180,7 @@ static emlrtBCInfo ed_emlrtBCI = { -1, /* iFirst */
   67,                                  /* colNo */
   "lon2",                              /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -190,7 +190,7 @@ static emlrtBCInfo fd_emlrtBCI = { -1, /* iFirst */
   59,                                  /* colNo */
   "lat2",                              /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -200,7 +200,7 @@ static emlrtBCInfo gd_emlrtBCI = { -1, /* iFirst */
   80,                                  /* colNo */
   "lon2",                              /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -210,21 +210,21 @@ static emlrtBCInfo hd_emlrtBCI = { -1, /* iFirst */
   72,                                  /* colNo */
   "lat2",                              /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo j_emlrtDCI = { 14,  /* lineNo */
   14,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   4                                    /* checkKind */
 };
 
 static emlrtDCInfo k_emlrtDCI = { 14,  /* lineNo */
   31,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   4                                    /* checkKind */
 };
 
@@ -234,7 +234,7 @@ static emlrtBCInfo id_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "lat",                               /* aName */
   "mexable_intrinsicYToLatitude",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -244,7 +244,7 @@ static emlrtBCInfo jd_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "lat",                               /* aName */
   "mexable_intrinsicYToLatitude",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -254,7 +254,7 @@ static emlrtBCInfo kd_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "lon",                               /* aName */
   "mexable_intrinsicXToLongitude",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -264,7 +264,7 @@ static emlrtBCInfo ld_emlrtBCI = { -1, /* iFirst */
   8,                                   /* colNo */
   "vismap",                            /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -274,7 +274,7 @@ static emlrtBCInfo md_emlrtBCI = { -1, /* iFirst */
   14,                                  /* colNo */
   "visprofile",                        /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -284,7 +284,7 @@ static emlrtBCInfo nd_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "vis",                               /* aName */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -294,14 +294,14 @@ static emlrtBCInfo od_emlrtBCI = { -1, /* iFirst */
   2,                                   /* colNo */
   "lat",                               /* aName */
   "mexable_latitudeToIntrinsicY",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo l_emlrtDCI = { 94,  /* lineNo */
   3,                                   /* colNo */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -311,7 +311,7 @@ static emlrtBCInfo pd_emlrtBCI = { -1, /* iFirst */
   3,                                   /* colNo */
   "Z",                                 /* aName */
   "embed",                             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -319,247 +319,247 @@ static emlrtECInfo fb_emlrtECI = { -1, /* nDims */
   193,                                 /* lineNo */
   9,                                   /* colNo */
   "mexable_intrinsicYToLatitude",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo yc_emlrtRTEI = { 12,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ad_emlrtRTEI = { 28,/* lineNo */
   9,                                   /* colNo */
   "colon",                             /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\ops\\colon.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\ops\\colon.m"/* pName */
 };
 
 static emlrtRTEInfo bd_emlrtRTEI = { 14,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo cd_emlrtRTEI = { 15,/* lineNo */
   11,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo dd_emlrtRTEI = { 15,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ed_emlrtRTEI = { 19,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo fd_emlrtRTEI = { 19,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo gd_emlrtRTEI = { 193,/* lineNo */
   9,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo hd_emlrtRTEI = { 193,/* lineNo */
   39,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo id_emlrtRTEI = { 20,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo jd_emlrtRTEI = { 20,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo kd_emlrtRTEI = { 15,/* lineNo */
   13,                                  /* colNo */
   "isnan",                             /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\isnan.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\isnan.m"/* pName */
 };
 
 static emlrtRTEInfo ld_emlrtRTEI = { 36,/* lineNo */
   5,                                   /* colNo */
   "find",                              /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
 };
 
 static emlrtRTEInfo md_emlrtRTEI = { 37,/* lineNo */
   5,                                   /* colNo */
   "find",                              /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\find.m"/* pName */
 };
 
 static emlrtRTEInfo nd_emlrtRTEI = { 34,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo od_emlrtRTEI = { 34,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo pd_emlrtRTEI = { 62,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo qd_emlrtRTEI = { 62,/* lineNo */
   21,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo rd_emlrtRTEI = { 35,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo sd_emlrtRTEI = { 44,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo td_emlrtRTEI = { 113,/* lineNo */
   6,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ud_emlrtRTEI = { 113,/* lineNo */
   18,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo vd_emlrtRTEI = { 80,/* lineNo */
   13,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo wd_emlrtRTEI = { 80,/* lineNo */
   42,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo xd_emlrtRTEI = { 81,/* lineNo */
   13,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo yd_emlrtRTEI = { 81,/* lineNo */
   42,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo be_emlrtRTEI = { 93,/* lineNo */
   8,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ce_emlrtRTEI = { 94,/* lineNo */
   3,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo de_emlrtRTEI = { 1,/* lineNo */
   24,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ee_emlrtRTEI = { 191,/* lineNo */
   9,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo fe_emlrtRTEI = { 180,/* lineNo */
   9,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo he_emlrtRTEI = { 62,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ie_emlrtRTEI = { 74,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo je_emlrtRTEI = { 75,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ke_emlrtRTEI = { 80,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo le_emlrtRTEI = { 83,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo me_emlrtRTEI = { 84,/* lineNo */
   1,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo ne_emlrtRTEI = { 1,/* lineNo */
   23,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo lh_emlrtRTEI = { 187,/* lineNo */
   5,                                   /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 static emlrtRTEInfo mh_emlrtRTEI = { 183,/* lineNo */
   16,                                  /* colNo */
   "mexable_viewshed",                  /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_viewshed.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_viewshed.m"/* pName */
 };
 
 /* Function Declarations */

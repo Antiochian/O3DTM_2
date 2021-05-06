@@ -35,58 +35,58 @@
 /* Variable Definitions */
 static emlrtRSInfo of_emlrtRSI = { 41, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo pf_emlrtRSI = { 49, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo qf_emlrtRSI = { 56, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo rf_emlrtRSI = { 58, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo sf_emlrtRSI = { 51, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo tf_emlrtRSI = { 62, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo uf_emlrtRSI = { 74, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo vf_emlrtRSI = { 76, /* lineNo */
   "raytrace_pixel",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pathName */
 };
 
 static emlrtRSInfo wf_emlrtRSI = { 28, /* lineNo */
   "colon",                             /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\ops\\colon.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\ops\\colon.m"/* pathName */
 };
 
 static emlrtRSInfo eg_emlrtRSI = { 174,/* lineNo */
   "flatIter",                          /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\applyBinaryScalarFunction.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\applyBinaryScalarFunction.m"/* pathName */
 };
 
 static emlrtRTEInfo w_emlrtRTEI = { 20,/* lineNo */
   15,                                  /* colNo */
   "rdivide_helper",                    /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\rdivide_helper.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\rdivide_helper.m"/* pName */
 };
 
 static emlrtBCInfo ye_emlrtBCI = { -1, /* iFirst */
@@ -95,7 +95,7 @@ static emlrtBCInfo ye_emlrtBCI = { -1, /* iFirst */
   29,                                  /* colNo */
   "gamma_s",                           /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -105,7 +105,7 @@ static emlrtBCInfo af_emlrtBCI = { -1, /* iFirst */
   33,                                  /* colNo */
   "gamma_s",                           /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -115,14 +115,14 @@ static emlrtBCInfo bf_emlrtBCI = { -1, /* iFirst */
   25,                                  /* colNo */
   "theta_arr",                         /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo m_emlrtDCI = { 92,  /* lineNo */
   25,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -132,7 +132,7 @@ static emlrtBCInfo cf_emlrtBCI = { -1, /* iFirst */
   23,                                  /* colNo */
   "theta_arr",                         /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -140,7 +140,7 @@ static emlrtECInfo gb_emlrtECI = { -1, /* nDims */
   89,                                  /* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtBCInfo df_emlrtBCI = { -1, /* iFirst */
@@ -149,7 +149,7 @@ static emlrtBCInfo df_emlrtBCI = { -1, /* iFirst */
   51,                                  /* colNo */
   "theta_arr",                         /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -159,14 +159,14 @@ static emlrtBCInfo ef_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "theta_arr",                         /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo n_emlrtDCI = { 89,  /* lineNo */
   15,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -176,7 +176,7 @@ static emlrtBCInfo ff_emlrtBCI = { -1, /* iFirst */
   97,                                  /* colNo */
   "theta_matrix",                      /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -184,7 +184,7 @@ static emlrtECInfo hb_emlrtECI = { -1, /* nDims */
   82,                                  /* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtBCInfo gf_emlrtBCI = { -1, /* iFirst */
@@ -193,14 +193,14 @@ static emlrtBCInfo gf_emlrtBCI = { -1, /* iFirst */
   18,                                  /* colNo */
   "theta_matrix",                      /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo x_emlrtRTEI = { 87,/* lineNo */
   11,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtBCInfo hf_emlrtBCI = { -1, /* iFirst */
@@ -209,7 +209,7 @@ static emlrtBCInfo hf_emlrtBCI = { -1, /* iFirst */
   21,                                  /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -219,7 +219,7 @@ static emlrtBCInfo if_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -227,7 +227,7 @@ static emlrtECInfo ib_emlrtECI = { -1, /* nDims */
   62,                                  /* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtBCInfo jf_emlrtBCI = { -1, /* iFirst */
@@ -236,7 +236,7 @@ static emlrtBCInfo jf_emlrtBCI = { -1, /* iFirst */
   13,                                  /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -246,7 +246,7 @@ static emlrtBCInfo kf_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -254,145 +254,145 @@ static emlrtECInfo jb_emlrtECI = { 2,  /* nDims */
   62,                                  /* lineNo */
   34,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo kb_emlrtECI = { 2,  /* nDims */
   62,                                  /* lineNo */
   62,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo lb_emlrtECI = { 2,  /* nDims */
   61,                                  /* lineNo */
   15,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo mb_emlrtECI = { 2,  /* nDims */
   61,                                  /* lineNo */
   46,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo nb_emlrtECI = { 2,  /* nDims */
   61,                                  /* lineNo */
   50,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo ob_emlrtECI = { 2,  /* nDims */
   51,                                  /* lineNo */
   14,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo pb_emlrtECI = { 2,  /* nDims */
   58,                                  /* lineNo */
   37,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo qb_emlrtECI = { 2,  /* nDims */
   56,                                  /* lineNo */
   20,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtECInfo rb_emlrtECI = { 2,  /* nDims */
   56,                                  /* lineNo */
   44,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo y_emlrtRTEI = { 34,/* lineNo */
   33,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtDCInfo o_emlrtDCI = { 34,  /* lineNo */
   35,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo p_emlrtDCI = { 31,  /* lineNo */
   22,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo q_emlrtDCI = { 31,  /* lineNo */
   22,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   4                                    /* checkKind */
 };
 
 static emlrtDCInfo r_emlrtDCI = { 31,  /* lineNo */
   43,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo s_emlrtDCI = { 31,  /* lineNo */
   43,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   4                                    /* checkKind */
 };
 
 static emlrtDCInfo t_emlrtDCI = { 86,  /* lineNo */
   20,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo u_emlrtDCI = { 86,  /* lineNo */
   20,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   4                                    /* checkKind */
 };
 
 static emlrtDCInfo v_emlrtDCI = { 35,  /* lineNo */
   19,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo w_emlrtDCI = { 31,  /* lineNo */
   1,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo x_emlrtDCI = { 86,  /* lineNo */
   1,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo y_emlrtDCI = { 35,  /* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -402,14 +402,14 @@ static emlrtBCInfo lf_emlrtBCI = { -1, /* iFirst */
   27,                                  /* colNo */
   "decl_arr_local",                    /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo ab_emlrtDCI = { 46, /* lineNo */
   27,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -419,7 +419,7 @@ static emlrtBCInfo mf_emlrtBCI = { -1, /* iFirst */
   21,                                  /* colNo */
   "h_arr_local",                       /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -429,7 +429,7 @@ static emlrtBCInfo nf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sigma_ew",                          /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -439,7 +439,7 @@ static emlrtBCInfo of_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sigma_ns",                          /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -449,7 +449,7 @@ static emlrtBCInfo pf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sigma_w",                           /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -459,7 +459,7 @@ static emlrtBCInfo qf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "gamma_so",                          /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -469,7 +469,7 @@ static emlrtBCInfo rf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -479,7 +479,7 @@ static emlrtBCInfo sf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -489,7 +489,7 @@ static emlrtBCInfo tf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "az_sun",                            /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -499,7 +499,7 @@ static emlrtBCInfo uf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "az_sun",                            /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -509,7 +509,7 @@ static emlrtBCInfo vf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sun_vis",                           /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -519,224 +519,224 @@ static emlrtBCInfo wf_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "theta",                             /* aName */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo nh_emlrtRTEI = { 31,/* lineNo */
   1,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo oh_emlrtRTEI = { 86,/* lineNo */
   1,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ph_emlrtRTEI = { 92,/* lineNo */
   1,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo qh_emlrtRTEI = { 35,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo rh_emlrtRTEI = { 41,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo sh_emlrtRTEI = { 46,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo th_emlrtRTEI = { 49,/* lineNo */
   13,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo uh_emlrtRTEI = { 49,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo vh_emlrtRTEI = { 50,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo wh_emlrtRTEI = { 51,/* lineNo */
   48,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo xh_emlrtRTEI = { 51,/* lineNo */
   37,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo yh_emlrtRTEI = { 52,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ai_emlrtRTEI = { 53,/* lineNo */
   14,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo bi_emlrtRTEI = { 1,/* lineNo */
   22,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ci_emlrtRTEI = { 54,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo di_emlrtRTEI = { 56,/* lineNo */
   44,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ei_emlrtRTEI = { 56,/* lineNo */
   67,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo fi_emlrtRTEI = { 56,/* lineNo */
   20,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo gi_emlrtRTEI = { 56,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo hi_emlrtRTEI = { 58,/* lineNo */
   46,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ii_emlrtRTEI = { 58,/* lineNo */
   37,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ji_emlrtRTEI = { 58,/* lineNo */
   58,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ki_emlrtRTEI = { 35,/* lineNo */
   1,                                   /* colNo */
   "rdivide_helper",                    /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\rdivide_helper.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\rdivide_helper.m"/* pName */
 };
 
 static emlrtRTEInfo li_emlrtRTEI = { 61,/* lineNo */
   15,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo mi_emlrtRTEI = { 61,/* lineNo */
   47,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ni_emlrtRTEI = { 61,/* lineNo */
   46,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo oi_emlrtRTEI = { 61,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo pi_emlrtRTEI = { 62,/* lineNo */
   62,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo qi_emlrtRTEI = { 62,/* lineNo */
   89,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ri_emlrtRTEI = { 62,/* lineNo */
   34,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo si_emlrtRTEI = { 62,/* lineNo */
   29,                                  /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ti_emlrtRTEI = { 62,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo ui_emlrtRTEI = { 66,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo vi_emlrtRTEI = { 70,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo wi_emlrtRTEI = { 76,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 static emlrtRTEInfo xi_emlrtRTEI = { 58,/* lineNo */
   5,                                   /* colNo */
   "raytrace_pixel",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\raytrace_pixel.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\raytrace_pixel.m"/* pName */
 };
 
 /* Function Definitions */

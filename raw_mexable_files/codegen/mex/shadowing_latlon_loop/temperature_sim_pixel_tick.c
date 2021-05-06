@@ -20,393 +20,353 @@
 #include <stdio.h>
 
 /* Variable Definitions */
-static emlrtRTEInfo emlrtRTEI = { 95,  /* lineNo */
+static emlrtRTEInfo emlrtRTEI = { 88,  /* lineNo */
   9,                                   /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pName */
 };
 
-static emlrtRSInfo eh_emlrtRSI = { 60, /* lineNo */
+static emlrtRSInfo eh_emlrtRSI = { 53, /* lineNo */
   "temperature_sim_pixel_tick",        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pathName */
 };
 
-static emlrtRSInfo fh_emlrtRSI = { 86, /* lineNo */
+static emlrtRSInfo fh_emlrtRSI = { 79, /* lineNo */
   "temperature_sim_pixel_tick",        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pathName */
 };
 
-static emlrtRSInfo gh_emlrtRSI = { 95, /* lineNo */
+static emlrtRSInfo gh_emlrtRSI = { 88, /* lineNo */
   "temperature_sim_pixel_tick",        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pathName */
+};
+
+static emlrtBCInfo bh_emlrtBCI = { -1, /* iFirst */
+  -1,                                  /* iLast */
+  93,                                  /* lineNo */
+  11,                                  /* colNo */
+  "T_new_arr",                         /* aName */
+  "temperature_sim_pixel_tick",        /* fName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
+  0                                    /* checkKind */
 };
 
 static emlrtBCInfo ch_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  100,                                 /* lineNo */
-  11,                                  /* colNo */
-  "T_new_arr",                         /* aName */
+  103,                                 /* lineNo */
+  21,                                  /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo dh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  110,                                 /* lineNo */
-  21,                                  /* colNo */
+  102,                                 /* lineNo */
+  15,                                  /* colNo */
   "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo eh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  109,                                 /* lineNo */
-  15,                                  /* colNo */
+  97,                                  /* lineNo */
+  17,                                  /* colNo */
   "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
+};
+
+static emlrtDCInfo db_emlrtDCI = { 97, /* lineNo */
+  17,                                  /* colNo */
+  "temperature_sim_pixel_tick",        /* fName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
+  1                                    /* checkKind */
 };
 
 static emlrtBCInfo fh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  104,                                 /* lineNo */
-  17,                                  /* colNo */
-  "T_arr",                             /* aName */
+  74,                                  /* lineNo */
+  121,                                 /* colNo */
+  "dz_arr",                            /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
-};
-
-static emlrtDCInfo db_emlrtDCI = { 104,/* lineNo */
-  17,                                  /* colNo */
-  "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
-  1                                    /* checkKind */
 };
 
 static emlrtBCInfo gh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  81,                                  /* lineNo */
-  121,                                 /* colNo */
-  "dz_arr",                            /* aName */
+  74,                                  /* lineNo */
+  94,                                  /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo hh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  81,                                  /* lineNo */
-  94,                                  /* colNo */
+  74,                                  /* lineNo */
+  77,                                  /* colNo */
   "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ih_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  81,                                  /* lineNo */
-  77,                                  /* colNo */
-  "T_arr",                             /* aName */
+  73,                                  /* lineNo */
+  107,                                 /* colNo */
+  "dz_arr",                            /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo jh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  80,                                  /* lineNo */
-  107,                                 /* colNo */
-  "dz_arr",                            /* aName */
+  73,                                  /* lineNo */
+  93,                                  /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo kh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  80,                                  /* lineNo */
-  93,                                  /* colNo */
+  73,                                  /* lineNo */
+  82,                                  /* colNo */
   "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo lh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  80,                                  /* lineNo */
-  82,                                  /* colNo */
-  "T_arr",                             /* aName */
+  72,                                  /* lineNo */
+  30,                                  /* colNo */
+  "Kc_3dmat_local",                    /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo mh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  79,                                  /* lineNo */
-  30,                                  /* colNo */
-  "Kc_3dmat_local",                    /* aName */
+  68,                                  /* lineNo */
+  11,                                  /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo nh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  75,                                  /* lineNo */
-  11,                                  /* colNo */
+  47,                                  /* lineNo */
+  30,                                  /* colNo */
   "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
+};
+
+static emlrtDCInfo eb_emlrtDCI = { 47, /* lineNo */
+  30,                                  /* colNo */
+  "temperature_sim_pixel_tick",        /* fName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
+  1                                    /* checkKind */
 };
 
 static emlrtBCInfo oh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  54,                                  /* lineNo */
-  30,                                  /* colNo */
-  "T_arr",                             /* aName */
+  48,                                  /* lineNo */
+  59,                                  /* colNo */
+  "dz_arr",                            /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo eb_emlrtDCI = { 54, /* lineNo */
-  30,                                  /* colNo */
+static emlrtDCInfo fb_emlrtDCI = { 48, /* lineNo */
+  59,                                  /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo ph_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  55,                                  /* lineNo */
-  59,                                  /* colNo */
-  "dz_arr",                            /* aName */
+  48,                                  /* lineNo */
+  97,                                  /* colNo */
+  "Kc_3dmat_local",                    /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo fb_emlrtDCI = { 55, /* lineNo */
-  59,                                  /* colNo */
+static emlrtDCInfo gb_emlrtDCI = { 48, /* lineNo */
+  97,                                  /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo qh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  55,                                  /* lineNo */
-  97,                                  /* colNo */
-  "Kc_3dmat_local",                    /* aName */
+  48,                                  /* lineNo */
+  5,                                   /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo gb_emlrtDCI = { 55, /* lineNo */
-  97,                                  /* colNo */
+static emlrtDCInfo hb_emlrtDCI = { 48, /* lineNo */
+  5,                                   /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo rh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  55,                                  /* lineNo */
-  5,                                   /* colNo */
-  "T_arr",                             /* aName */
+  98,                                  /* lineNo */
+  47,                                  /* colNo */
+  "dz_arr",                            /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo hb_emlrtDCI = { 55, /* lineNo */
-  5,                                   /* colNo */
+static emlrtDCInfo ib_emlrtDCI = { 98, /* lineNo */
+  47,                                  /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo sh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  105,                                 /* lineNo */
-  47,                                  /* colNo */
-  "dz_arr",                            /* aName */
+  98,                                  /* lineNo */
+  83,                                  /* colNo */
+  "Kc_3dmat_local",                    /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo ib_emlrtDCI = { 105,/* lineNo */
-  47,                                  /* colNo */
+static emlrtDCInfo jb_emlrtDCI = { 98, /* lineNo */
+  83,                                  /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo th_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  105,                                 /* lineNo */
-  83,                                  /* colNo */
-  "Kc_3dmat_local",                    /* aName */
+  98,                                  /* lineNo */
+  1,                                   /* colNo */
+  "T_new_arr",                         /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
-static emlrtDCInfo jb_emlrtDCI = { 105,/* lineNo */
-  83,                                  /* colNo */
+static emlrtDCInfo kb_emlrtDCI = { 98, /* lineNo */
+  1,                                   /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo uh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  105,                                 /* lineNo */
-  1,                                   /* colNo */
-  "T_new_arr",                         /* aName */
+  104,                                 /* lineNo */
+  17,                                  /* colNo */
+  "p_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
-};
-
-static emlrtDCInfo kb_emlrtDCI = { 105,/* lineNo */
-  1,                                   /* colNo */
-  "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
-  1                                    /* checkKind */
 };
 
 static emlrtBCInfo vh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  111,                                 /* lineNo */
-  17,                                  /* colNo */
-  "p_arr",                             /* aName */
+  104,                                 /* lineNo */
+  34,                                  /* colNo */
+  "Kc_3dmat_local",                    /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo wh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  111,                                 /* lineNo */
-  34,                                  /* colNo */
-  "Kc_3dmat_local",                    /* aName */
+  105,                                 /* lineNo */
+  16,                                  /* colNo */
+  "q_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo xh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  112,                                 /* lineNo */
-  16,                                  /* colNo */
-  "q_arr",                             /* aName */
+  105,                                 /* lineNo */
+  33,                                  /* colNo */
+  "Kc_3dmat_local",                    /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo yh_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  112,                                 /* lineNo */
-  33,                                  /* colNo */
-  "Kc_3dmat_local",                    /* aName */
+  107,                                 /* lineNo */
+  37,                                  /* colNo */
+  "rho_matrix_local",                  /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ai_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  114,                                 /* lineNo */
-  37,                                  /* colNo */
-  "rho_matrix_local",                  /* aName */
+  107,                                 /* lineNo */
+  132,                                 /* colNo */
+  "T_arr",                             /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo bi_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  114,                                 /* lineNo */
-  132,                                 /* colNo */
-  "T_arr",                             /* aName */
-  "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo ci_emlrtBCI = { -1, /* iFirst */
-  -1,                                  /* iLast */
-  114,                                 /* lineNo */
+  107,                                 /* lineNo */
   5,                                   /* colNo */
   "T_new_arr",                         /* aName */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m",                             /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo tk_emlrtRTEI = { 3,/* lineNo */
   1,                                   /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pName */
 };
 
 static emlrtRTEInfo uk_emlrtRTEI = { 4,/* lineNo */
   1,                                   /* colNo */
   "temperature_sim_pixel_tick",        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\temperature_sim_pixel_t"
-  "ick.m"                              /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\temperature_sim_pixel_tick.m"/* pName */
 };
 
 /* Function Definitions */
@@ -489,15 +449,11 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
   Chi_OVER_350_POWER_3 = temperature_parameters->Chi_OVER_350_POWER_3;
 
-  /* confusingly, the following three parameters are not actually local, they are constant over all pixels. They are called */
-  /* "local" because at one point I was experimenting with dynamically changing */
-  /* the t_intervals depending on how "interesting" an area was, and so gave */
-  /* different pixels different t_interval and bottom_layer values. The idea */
-  /* might be workable, but its fiddly to implement and I ran out of time. */
-  /* I moved them back to the constant parameters and left the name as-is. */
   /* unpack local params */
   thermal_emission_local = local_temperature_params->thermal_emission_local;
 
+  /*  vis_flux_local = local_temperature_params.vis_flux_local; */
+  /*  ir_flux_local = local_temperature_params.ir_flux_local; */
   /*  Increase simulation depth */
   if ((*bottom_layer_idx_local < temperature_parameters->num_layers) &&
       (t_relative_sec > *depth_update_wait_t_local)) {
@@ -516,7 +472,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
     if (((int32_T)difference < 1) || ((int32_T)difference > T_prev_arr->size[2]))
     {
       emlrtDynamicBoundsCheckR2012b((int32_T)difference, 1, T_prev_arr->size[2],
-        &oh_emlrtBCI, sp);
+        &nh_emlrtBCI, sp);
     }
 
     T_above_matrix = T_prev_arr->data[(int32_T)(*bottom_layer_idx_local - 1.0) -
@@ -528,7 +484,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
     if (((int32_T)difference < 1) || ((int32_T)difference > dz_arr->size[1])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)difference, 1, dz_arr->size[1],
-        &ph_emlrtBCI, sp);
+        &oh_emlrtBCI, sp);
     }
 
     K_value = *bottom_layer_idx_local - 1.0;
@@ -539,7 +495,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
     if (((int32_T)K_value < 1) || ((int32_T)K_value >
          local_temperature_params->Kc_3dmat_local->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)K_value, 1,
-        local_temperature_params->Kc_3dmat_local->size[2], &qh_emlrtBCI, sp);
+        local_temperature_params->Kc_3dmat_local->size[2], &ph_emlrtBCI, sp);
     }
 
     if (*bottom_layer_idx_local != (int32_T)muDoubleScalarFloor
@@ -549,7 +505,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
     i = (int32_T)*bottom_layer_idx_local;
     if ((i < 1) || (i > T_prev_arr->size[2])) {
-      emlrtDynamicBoundsCheckR2012b(i, 1, T_prev_arr->size[2], &rh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(i, 1, T_prev_arr->size[2], &qh_emlrtBCI, sp);
     }
 
     T_arr->data[i - 1] = T_above_matrix + dz_arr->data[(int32_T)difference - 1] *
@@ -593,7 +549,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
   break_iter = 0.0;
   difference = temperature_parameters->surface_bc_test_difference + 1.0;
   if (1 > T_arr->size[2]) {
-    emlrtDynamicBoundsCheckR2012b(1, 1, T_arr->size[2], &nh_emlrtBCI, sp);
+    emlrtDynamicBoundsCheckR2012b(1, 1, T_arr->size[2], &mh_emlrtBCI, sp);
   }
 
   T = T_arr->data[0];
@@ -606,33 +562,33 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
                        temperature_parameters->surface_bc_test_difference)) {
     if (1 > local_temperature_params->Kc_3dmat_local->size[2]) {
       emlrtDynamicBoundsCheckR2012b(1, 1,
-        local_temperature_params->Kc_3dmat_local->size[2], &mh_emlrtBCI, sp);
+        local_temperature_params->Kc_3dmat_local->size[2], &lh_emlrtBCI, sp);
     }
 
     K_value = local_temperature_params->Kc_3dmat_local->data[0] *
       (Chi_OVER_350_POWER_3 * T * T * T + 1.0);
     if (2 > T_arr->size[2]) {
-      emlrtDynamicBoundsCheckR2012b(2, 1, T_arr->size[2], &lh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(2, 1, T_arr->size[2], &kh_emlrtBCI, sp);
     }
 
     if (3 > T_arr->size[2]) {
-      emlrtDynamicBoundsCheckR2012b(3, 1, T_arr->size[2], &kh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(3, 1, T_arr->size[2], &jh_emlrtBCI, sp);
     }
 
     if (1 > dz_arr->size[1]) {
-      emlrtDynamicBoundsCheckR2012b(1, 1, dz_arr->size[1], &jh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(1, 1, dz_arr->size[1], &ih_emlrtBCI, sp);
     }
 
     if (2 > T_arr->size[2]) {
-      emlrtDynamicBoundsCheckR2012b(2, 1, T_arr->size[2], &ih_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(2, 1, T_arr->size[2], &hh_emlrtBCI, sp);
     }
 
     if (3 > T_arr->size[2]) {
-      emlrtDynamicBoundsCheckR2012b(3, 1, T_arr->size[2], &hh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(3, 1, T_arr->size[2], &gh_emlrtBCI, sp);
     }
 
     if (1 > dz_arr->size[1]) {
-      emlrtDynamicBoundsCheckR2012b(1, 1, dz_arr->size[1], &gh_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(1, 1, dz_arr->size[1], &fh_emlrtBCI, sp);
     }
 
     T_above_matrix = T - ((thermal_emission_local * T * T * T * T - dv[0]) -
@@ -701,7 +657,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
   /* WHILE LOOP END */
   if (1 > T_prev_arr->size[2]) {
-    emlrtDynamicBoundsCheckR2012b(1, 1, T_prev_arr->size[2], &ch_emlrtBCI, sp);
+    emlrtDynamicBoundsCheckR2012b(1, 1, T_prev_arr->size[2], &bh_emlrtBCI, sp);
   }
 
   T_new_arr->data[0] = T_above_matrix;
@@ -715,7 +671,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
   if (((int32_T)difference < 1) || ((int32_T)difference > T_arr->size[2])) {
     emlrtDynamicBoundsCheckR2012b((int32_T)difference, 1, T_arr->size[2],
-      &fh_emlrtBCI, sp);
+      &eh_emlrtBCI, sp);
   }
 
   difference = *bottom_layer_idx_local - 1.0;
@@ -725,7 +681,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
   if (((int32_T)difference < 1) || ((int32_T)difference > dz_arr->size[1])) {
     emlrtDynamicBoundsCheckR2012b((int32_T)difference, 1, dz_arr->size[1],
-      &sh_emlrtBCI, sp);
+      &rh_emlrtBCI, sp);
   }
 
   K_value = *bottom_layer_idx_local - 1.0;
@@ -736,7 +692,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
   if (((int32_T)K_value < 1) || ((int32_T)K_value >
        local_temperature_params->Kc_3dmat_local->size[2])) {
     emlrtDynamicBoundsCheckR2012b((int32_T)K_value, 1,
-      local_temperature_params->Kc_3dmat_local->size[2], &th_emlrtBCI, sp);
+      local_temperature_params->Kc_3dmat_local->size[2], &sh_emlrtBCI, sp);
   }
 
   if (*bottom_layer_idx_local != (int32_T)muDoubleScalarFloor
@@ -746,7 +702,7 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
 
   i = (int32_T)*bottom_layer_idx_local;
   if ((i < 1) || (i > T_prev_arr->size[2])) {
-    emlrtDynamicBoundsCheckR2012b(i, 1, T_prev_arr->size[2], &uh_emlrtBCI, sp);
+    emlrtDynamicBoundsCheckR2012b(i, 1, T_prev_arr->size[2], &th_emlrtBCI, sp);
   }
 
   T_above_matrix = T_arr->data[(int32_T)(*bottom_layer_idx_local - 1.0) - 1];
@@ -760,26 +716,26 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
   i = (int32_T)((*bottom_layer_idx_local - 1.0) + -1.0);
   for (loop_ub = 0; loop_ub < i; loop_ub++) {
     if ((loop_ub + 2 < 1) || (loop_ub + 2 > T_arr->size[2])) {
-      emlrtDynamicBoundsCheckR2012b(loop_ub + 2, 1, T_arr->size[2], &eh_emlrtBCI,
+      emlrtDynamicBoundsCheckR2012b(loop_ub + 2, 1, T_arr->size[2], &dh_emlrtBCI,
         sp);
     }
 
     if (((int32_T)(((real_T)loop_ub + 2.0) - 1.0) < 1) || ((int32_T)(((real_T)
            loop_ub + 2.0) - 1.0) > T_arr->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(((real_T)loop_ub + 2.0) - 1.0), 1,
-        T_arr->size[2], &dh_emlrtBCI, sp);
+        T_arr->size[2], &ch_emlrtBCI, sp);
     }
 
     if (((int32_T)(loop_ub + 2U) < 1) || ((int32_T)(loop_ub + 2U) >
          temperature_parameters->p_arr->size[1])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 2U), 1,
-        temperature_parameters->p_arr->size[1], &vh_emlrtBCI, sp);
+        temperature_parameters->p_arr->size[1], &uh_emlrtBCI, sp);
     }
 
     if (((int32_T)(loop_ub + 1U) < 1) || ((int32_T)(loop_ub + 1U) >
          local_temperature_params->Kc_3dmat_local->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 1U), 1,
-        local_temperature_params->Kc_3dmat_local->size[2], &wh_emlrtBCI, sp);
+        local_temperature_params->Kc_3dmat_local->size[2], &vh_emlrtBCI, sp);
     }
 
     T_above_matrix = temperature_parameters->p_arr->data[loop_ub + 1] *
@@ -789,13 +745,13 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
     if (((int32_T)(loop_ub + 2U) < 1) || ((int32_T)(loop_ub + 2U) >
          temperature_parameters->q_arr->size[1])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 2U), 1,
-        temperature_parameters->q_arr->size[1], &xh_emlrtBCI, sp);
+        temperature_parameters->q_arr->size[1], &wh_emlrtBCI, sp);
     }
 
     if (((int32_T)(loop_ub + 2U) < 1) || ((int32_T)(loop_ub + 2U) >
          local_temperature_params->Kc_3dmat_local->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 2U), 1,
-        local_temperature_params->Kc_3dmat_local->size[2], &yh_emlrtBCI, sp);
+        local_temperature_params->Kc_3dmat_local->size[2], &xh_emlrtBCI, sp);
     }
 
     K_value = T_arr->data[loop_ub + 1];
@@ -805,19 +761,19 @@ void temperature_sim_pixel_tick(const emlrtStack *sp, const emxArray_real_T
     if (((int32_T)(loop_ub + 2U) < 1) || ((int32_T)(loop_ub + 2U) >
          local_temperature_params->rho_matrix_local->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 2U), 1,
-        local_temperature_params->rho_matrix_local->size[2], &ai_emlrtBCI, sp);
+        local_temperature_params->rho_matrix_local->size[2], &yh_emlrtBCI, sp);
     }
 
     if (((int32_T)(loop_ub + 3U) < 1) || ((int32_T)(loop_ub + 3U) > T_arr->size
          [2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 3U), 1, T_arr->size[2],
-        &bi_emlrtBCI, sp);
+        &ai_emlrtBCI, sp);
     }
 
     if (((int32_T)(loop_ub + 2U) < 1) || ((int32_T)(loop_ub + 2U) >
          T_new_arr->size[2])) {
       emlrtDynamicBoundsCheckR2012b((int32_T)(loop_ub + 2U), 1, T_new_arr->size
-        [2], &ci_emlrtBCI, sp);
+        [2], &bi_emlrtBCI, sp);
     }
 
     T_new_arr->data[loop_ub + 1] = K_value + temperature_parameters->dt /

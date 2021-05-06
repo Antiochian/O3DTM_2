@@ -1,12 +1,12 @@
-# CompilerName=msvc160
+# CompilerName=msvc150
 # Mode=optim
 ninja_required_version = 1.3
 
 # Basic folders
 root = .
 builddir = $root\build\win64
-matlabdir = C:\Program Files\MATLAB\R2020b
-startdir = \\rivendell.physics.ox.ac.uk\user\students\2017\trin3161\Documents\O3DTM_stripped_down\raw_mexable_files
+matlabdir = D:\Program Files\MATLAB
+startdir = D:\Home\Documents\MATLAB\O3DTM2\raw_mexable_files
 
 # Toolchain information
 cc = cl
@@ -14,9 +14,9 @@ cxx = cl
 linker = link
 linkerxx = link
 
-cflags =  /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
+cflags =  /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "$startdir" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
 
-cxxflags =   /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "H:\Documents\O3DTM_stripped_down\raw_mexable_files" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
+cxxflags =   /c /Zp8 /GR /W3 /EHs /nologo /MD /D_CRT_SECURE_NO_DEPRECATE /D_SCL_SECURE_NO_DEPRECATE /D_SECURE_SCL=0   /DMATLAB_MEX_FILE  /DMATLAB_MEX_FILE /O2 /Oy- /DNDEBUG /fp:strict /I "$root" /I "$startdir" /I "$root\interface" /I "$matlabdir\extern\include" /I "." -DMODEL=shadowing_latlon_loop_mex /openmp /wd4101 
 
 ldflags =  /nologo /manifest   /DLL /LIBPATH:"$matlabdir\extern\lib\win64\microsoft" libmx.lib libmex.lib libmat.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  /out:"shadowing_latlon_loop_mex.mexw64" libemlrt.lib libcovrt.lib libut.lib libmwmathutil.lib libiomp5md.lib /nodefaultlib:vcomp /LIBPATH:"$matlabdir\bin\win64" /export:mexFunction /export:mexfilerequiredapiversion /export:emlrtMexFcnProperties /export:shadowing_latlon_loop /export:shadowing_latlon_loop_initialize /export:shadowing_latlon_loop_terminate /export:shadowing_latlon_loop_atexit /export:error /export:d_feval /export:emlrt_marshallIn /export:b_emlrt_marshallIn /export:bb_emlrt_marshallIn /export:emxFree_boolean_T /export:emxFree_real32_T /export:emxFree_int8_T /export:emxFree_int32_T /export:emxEnsureCapacity_boolean_T /export:emxEnsureCapacity_int32_T /export:emxInit_boolean_T /export:emxInit_int32_T /export:emxEnsureCapacity_int8_T /export:emxEnsureCapacity_real32_T /export:emxInit_real32_T /export:emxInit_int8_T /export:emxFreeStruct_struct_T2 /export:emxFreeStruct_struct_T1 /export:emxFreeStruct_struct_T /export:emxEnsureCapacity_cell_wrap_0 /export:emxTrim_cell_wrap_0 /export:emxExpand_cell_wrap_0 /export:emxInitStruct_cell_wrap_0 /export:emxInitStruct_struct_T2 /export:emxInitStruct_struct_T1 /export:emxInitStruct_struct_T /export:emxFreeStruct_struct4_T /export:emxFreeStruct_struct1_T /export:emxFree_cell_wrap_0 /export:emxFreeStruct_cell_wrap_0 /export:emxFree_real_T /export:emxInit_cell_wrap_0 /export:emxInitStruct_struct4_T /export:emxInitStruct_struct1_T /export:emxInit_real_T /export:emxEnsureCapacity_real_T
 

@@ -20,7 +20,7 @@
 /* Variable Definitions */
 static emlrtRSInfo ig_emlrtRSI = { 10, /* lineNo */
   "tand",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\tand.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\tand.m"/* pathName */
 };
 
 /* Function Definitions */

@@ -20,7 +20,7 @@
 /* Variable Definitions */
 static emlrtRSInfo yf_emlrtRSI = { 10, /* lineNo */
   "cosd",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\cosd.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\cosd.m"/* pathName */
 };
 
 /* Function Definitions */

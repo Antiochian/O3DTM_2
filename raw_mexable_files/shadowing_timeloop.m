@@ -74,6 +74,7 @@ if ~isempty(sample_t_idx)
     upcoming_sample_idx_ptr = 1; %this redundant phrasing is to demonstrate how the update process works
     upcoming_sample_idx = sample_t_idx(1);
 else
+    upcoming_sample_idx_ptr = -1;
     upcoming_sample_idx = -1; %never reach
 end
 

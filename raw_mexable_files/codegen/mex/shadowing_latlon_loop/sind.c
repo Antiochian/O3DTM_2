@@ -20,7 +20,7 @@
 /* Variable Definitions */
 static emlrtRSInfo xf_emlrtRSI = { 10, /* lineNo */
   "sind",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\sind.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\sind.m"/* pathName */
 };
 
 /* Function Definitions */

@@ -29,249 +29,249 @@
 /* Variable Definitions */
 static emlrtRSInfo qb_emlrtRSI = { 82, /* lineNo */
   "greatcircleinv",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo rb_emlrtRSI = { 83, /* lineNo */
   "greatcircleinv",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo sb_emlrtRSI = { 85, /* lineNo */
   "greatcircleinv",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo wb_emlrtRSI = { 36, /* lineNo */
   "sampleGreatCircle",                 /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo xb_emlrtRSI = { 48, /* lineNo */
   "sampleGreatCircle",                 /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo yb_emlrtRSI = { 58, /* lineNo */
   "doTrack2",                          /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo ac_emlrtRSI = { 59, /* lineNo */
   "doTrack2",                          /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo bc_emlrtRSI = { 61, /* lineNo */
   "doTrack2",                          /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo cc_emlrtRSI = { 67, /* lineNo */
   "doTrack2",                          /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo fc_emlrtRSI = { 107,/* lineNo */
   "greatcirclefwd",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo gc_emlrtRSI = { 108,/* lineNo */
   "greatcirclefwd",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo hc_emlrtRSI = { 110,/* lineNo */
   "greatcirclefwd",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo ic_emlrtRSI = { 113,/* lineNo */
   "greatcirclefwd",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo jc_emlrtRSI = { 112,/* lineNo */
   "greatcirclefwd",                    /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo nc_emlrtRSI = { 17, /* lineNo */
   "asin",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\asin.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\asin.m"/* pathName */
 };
 
 static emlrtRSInfo sc_emlrtRSI = { 71, /* lineNo */
   "mexable_wrapTo2Pi",                 /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo vc_emlrtRSI = { 199,/* lineNo */
   "interpolate",                       /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo wc_emlrtRSI = { 200,/* lineNo */
   "interpolate",                       /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo xc_emlrtRSI = { 218,/* lineNo */
   "interpolate",                       /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo yc_emlrtRSI = { 165,/* lineNo */
   "mexable_longitudeToIntrinsicX",     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo ad_emlrtRSI = { 168,/* lineNo */
   "mexable_longitudeToIntrinsicX",     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo bd_emlrtRSI = { 181,/* lineNo */
   "mexable_longitudeToIntrinsicX",     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo cd_emlrtRSI = { 186,/* lineNo */
   "mexable_longitudeToIntrinsicX",     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo dd_emlrtRSI = { 111,/* lineNo */
   "interp2",                           /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
 };
 
 static emlrtRSInfo ed_emlrtRSI = { 112,/* lineNo */
   "interp2",                           /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
 };
 
 static emlrtRSInfo fd_emlrtRSI = { 249,/* lineNo */
   "interp2_dispatch",                  /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pathName */
 };
 
 static emlrtRSInfo hd_emlrtRSI = { 236,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo id_emlrtRSI = { 256,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo jd_emlrtRSI = { 262,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo kd_emlrtRSI = { 271,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo ld_emlrtRSI = { 289,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo md_emlrtRSI = { 319,/* lineNo */
   "adjustterrain",                     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo nd_emlrtRSI = { 323,/* lineNo */
   "adjustterrain",                     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo od_emlrtRSI = { 324,/* lineNo */
   "adjustterrain",                     /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRSInfo pd_emlrtRSI = { 18, /* lineNo */
   "repelem",                           /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
 };
 
 static emlrtRSInfo qd_emlrtRSI = { 54, /* lineNo */
   "repelemVector",                     /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
 };
 
 static emlrtRSInfo rd_emlrtRSI = { 55, /* lineNo */
   "repelemVector",                     /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pathName */
 };
 
 static emlrtRSInfo sd_emlrtRSI = { 10, /* lineNo */
   "cummax",                            /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\datafun\\cummax.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\datafun\\cummax.m"/* pathName */
 };
 
 static emlrtRSInfo td_emlrtRSI = { 16, /* lineNo */
   "cumop",                             /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\datafun\\private\\cumop.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\datafun\\private\\cumop.m"/* pathName */
 };
 
 static emlrtRSInfo dh_emlrtRSI = { 279,/* lineNo */
   "losprofile",                        /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pathName */
 };
 
 static emlrtRTEInfo n_emlrtRTEI = { 14,/* lineNo */
   9,                                   /* colNo */
   "asin",                              /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\asin.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\asin.m"/* pName */
 };
 
 static emlrtRTEInfo o_emlrtRTEI = { 13,/* lineNo */
   9,                                   /* colNo */
   "sqrt",                              /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\sqrt.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\sqrt.m"/* pName */
 };
 
 static emlrtECInfo p_emlrtECI = { -1,  /* nDims */
   72,                                  /* lineNo */
   8,                                   /* colNo */
   "mexable_wrapTo2Pi",                 /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo q_emlrtECI = { -1,  /* nDims */
   113,                                 /* lineNo */
   23,                                  /* colNo */
   "greatcirclefwd",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo r_emlrtECI = { -1,  /* nDims */
   110,                                 /* lineNo */
   13,                                  /* colNo */
   "greatcirclefwd",                    /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo s_emlrtECI = { -1,  /* nDims */
   67,                                  /* lineNo */
   1,                                   /* colNo */
   "doTrack2",                          /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo t_emlrtECI = { -1,  /* nDims */
   66,                                  /* lineNo */
   5,                                   /* colNo */
   "doTrack2",                          /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtBCInfo qd_emlrtBCI = { -1, /* iFirst */
@@ -280,7 +280,7 @@ static emlrtBCInfo qd_emlrtBCI = { -1, /* iFirst */
   48,                                  /* colNo */
   "lambdaTrack",                       /* aName */
   "doTrack2",                          /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -290,7 +290,7 @@ static emlrtBCInfo rd_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "lambda",                            /* aName */
   "mexable_wrapTo2Pi",                 /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -300,7 +300,7 @@ static emlrtBCInfo sd_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "lambdaTrack",                       /* aName */
   "doTrack2",                          /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -310,7 +310,7 @@ static emlrtBCInfo td_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "lat",                               /* aName */
   "sampleGreatCircle",                 /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -320,7 +320,7 @@ static emlrtBCInfo ud_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "lon",                               /* aName */
   "sampleGreatCircle",                 /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -328,47 +328,47 @@ static emlrtECInfo u_emlrtECI = { -1,  /* nDims */
   205,                                 /* lineNo */
   4,                                   /* colNo */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo v_emlrtECI = { -1,  /* nDims */
   206,                                 /* lineNo */
   4,                                   /* colNo */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo w_emlrtECI = { -1,  /* nDims */
   212,                                 /* lineNo */
   4,                                   /* colNo */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo x_emlrtECI = { -1,  /* nDims */
   213,                                 /* lineNo */
   4,                                   /* colNo */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo y_emlrtECI = { -1,  /* nDims */
   134,                                 /* lineNo */
   6,                                   /* colNo */
   "mexable_latitudeToIntrinsicY",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo q_emlrtRTEI = { 142,/* lineNo */
   15,                                  /* colNo */
   "interp2_validate",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pName */
 };
 
 static emlrtRTEInfo r_emlrtRTEI = { 150,/* lineNo */
   15,                                  /* colNo */
   "interp2_validate",                  /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\polyfun\\interp2.m"/* pName */
 };
 
 static emlrtBCInfo vd_emlrtBCI = { -1, /* iFirst */
@@ -377,7 +377,7 @@ static emlrtBCInfo vd_emlrtBCI = { -1, /* iFirst */
   2,                                   /* colNo */
   "lat",                               /* aName */
   "mexable_latitudeToIntrinsicY",      /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -387,7 +387,7 @@ static emlrtBCInfo wd_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "xi",                                /* aName */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -397,7 +397,7 @@ static emlrtBCInfo xd_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "yi",                                /* aName */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -407,7 +407,7 @@ static emlrtBCInfo yd_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "xi",                                /* aName */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -417,7 +417,7 @@ static emlrtBCInfo ae_emlrtBCI = { -1, /* iFirst */
   1,                                   /* colNo */
   "yi",                                /* aName */
   "interpolate",                       /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -425,14 +425,14 @@ static emlrtECInfo ab_emlrtECI = { -1, /* nDims */
   180,                                 /* lineNo */
   3,                                   /* colNo */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo bb_emlrtECI = { -1, /* nDims */
   185,                                 /* lineNo */
   3,                                   /* colNo */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtBCInfo be_emlrtBCI = { -1, /* iFirst */
@@ -441,7 +441,7 @@ static emlrtBCInfo be_emlrtBCI = { -1, /* iFirst */
   16,                                  /* colNo */
   "lon",                               /* aName */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -451,7 +451,7 @@ static emlrtBCInfo ce_emlrtBCI = { -1, /* iFirst */
   3,                                   /* colNo */
   "lon",                               /* aName */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -461,7 +461,7 @@ static emlrtBCInfo de_emlrtBCI = { -1, /* iFirst */
   18,                                  /* colNo */
   "lon",                               /* aName */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -471,7 +471,7 @@ static emlrtBCInfo ee_emlrtBCI = { -1, /* iFirst */
   3,                                   /* colNo */
   "lon",                               /* aName */
   "mexable_longitudeToIntrinsicX",     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -481,7 +481,7 @@ static emlrtBCInfo fe_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "z",                                 /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -491,7 +491,7 @@ static emlrtBCInfo ge_emlrtBCI = { -1, /* iFirst */
   6,                                   /* colNo */
   "x",                                 /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -501,7 +501,7 @@ static emlrtBCInfo he_emlrtBCI = { -1, /* iFirst */
   19,                                  /* colNo */
   "z",                                 /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -511,7 +511,7 @@ static emlrtBCInfo ie_emlrtBCI = { -1, /* iFirst */
   9,                                   /* colNo */
   "ang",                               /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -521,7 +521,7 @@ static emlrtBCInfo je_emlrtBCI = { -1, /* iFirst */
   7,                                   /* colNo */
   "x2",                                /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -531,7 +531,7 @@ static emlrtBCInfo ke_emlrtBCI = { -1, /* iFirst */
   21,                                  /* colNo */
   "z2",                                /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -541,7 +541,7 @@ static emlrtBCInfo le_emlrtBCI = { -1, /* iFirst */
   10,                                  /* colNo */
   "ang2",                              /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -549,7 +549,7 @@ static emlrtECInfo cb_emlrtECI = { 2,  /* nDims */
   297,                                 /* lineNo */
   8,                                   /* colNo */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtBCInfo me_emlrtBCI = { -1, /* iFirst */
@@ -558,7 +558,7 @@ static emlrtBCInfo me_emlrtBCI = { -1, /* iFirst */
   8,                                   /* colNo */
   "z2",                                /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -568,7 +568,7 @@ static emlrtBCInfo ne_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "z",                                 /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -578,7 +578,7 @@ static emlrtBCInfo oe_emlrtBCI = { -1, /* iFirst */
   25,                                  /* colNo */
   "z",                                 /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -588,7 +588,7 @@ static emlrtBCInfo pe_emlrtBCI = { -1, /* iFirst */
   9,                                   /* colNo */
   "vis",                               /* aName */
   "losprofile",                        /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -596,416 +596,416 @@ static emlrtECInfo db_emlrtECI = { 2,  /* nDims */
   324,                                 /* lineNo */
   6,                                   /* colNo */
   "adjustterrain",                     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtECInfo eb_emlrtECI = { 2,  /* nDims */
   323,                                 /* lineNo */
   6,                                   /* colNo */
   "adjustterrain",                     /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo oe_emlrtRTEI = { 46,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo pe_emlrtRTEI = { 47,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo qe_emlrtRTEI = { 48,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo re_emlrtRTEI = { 59,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo se_emlrtRTEI = { 107,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo te_emlrtRTEI = { 108,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ue_emlrtRTEI = { 110,/* lineNo */
   13,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ve_emlrtRTEI = { 110,/* lineNo */
   33,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo we_emlrtRTEI = { 113,/* lineNo */
   52,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ye_emlrtRTEI = { 66,/* lineNo */
   6,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo af_emlrtRTEI = { 66,/* lineNo */
   28,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo bf_emlrtRTEI = { 36,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo cf_emlrtRTEI = { 67,/* lineNo */
   36,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo df_emlrtRTEI = { 70,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ef_emlrtRTEI = { 71,/* lineNo */
   14,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ff_emlrtRTEI = { 72,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo gf_emlrtRTEI = { 27,/* lineNo */
   7,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo hf_emlrtRTEI = { 67,/* lineNo */
   48,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo if_emlrtRTEI = { 59,/* lineNo */
   19,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo kf_emlrtRTEI = { 199,/* lineNo */
   39,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo lf_emlrtRTEI = { 134,/* lineNo */
   6,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo mf_emlrtRTEI = { 134,/* lineNo */
   18,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo nf_emlrtRTEI = { 200,/* lineNo */
   40,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo of_emlrtRTEI = { 205,/* lineNo */
   4,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo pf_emlrtRTEI = { 205,/* lineNo */
   16,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo qf_emlrtRTEI = { 206,/* lineNo */
   4,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo rf_emlrtRTEI = { 206,/* lineNo */
   16,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo sf_emlrtRTEI = { 212,/* lineNo */
   4,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo tf_emlrtRTEI = { 212,/* lineNo */
   13,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo uf_emlrtRTEI = { 213,/* lineNo */
   4,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo vf_emlrtRTEI = { 213,/* lineNo */
   13,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo wf_emlrtRTEI = { 199,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo xf_emlrtRTEI = { 200,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo yf_emlrtRTEI = { 194,/* lineNo */
   15,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ag_emlrtRTEI = { 168,/* lineNo */
   18,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo bg_emlrtRTEI = { 165,/* lineNo */
   18,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo cg_emlrtRTEI = { 141,/* lineNo */
   16,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo dg_emlrtRTEI = { 190,/* lineNo */
   2,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo eg_emlrtRTEI = { 181,/* lineNo */
   12,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo fg_emlrtRTEI = { 186,/* lineNo */
   14,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo gg_emlrtRTEI = { 181,/* lineNo */
   16,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo hg_emlrtRTEI = { 186,/* lineNo */
   18,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo jg_emlrtRTEI = { 238,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo kg_emlrtRTEI = { 232,/* lineNo */
   10,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo lg_emlrtRTEI = { 239,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo mg_emlrtRTEI = { 233,/* lineNo */
   7,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ng_emlrtRTEI = { 251,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo og_emlrtRTEI = { 256,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo pg_emlrtRTEI = { 274,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo qg_emlrtRTEI = { 275,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo rg_emlrtRTEI = { 272,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo sg_emlrtRTEI = { 289,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo tg_emlrtRTEI = { 297,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ug_emlrtRTEI = { 306,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo vg_emlrtRTEI = { 229,/* lineNo */
   11,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo wg_emlrtRTEI = { 316,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo xg_emlrtRTEI = { 317,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo yg_emlrtRTEI = { 321,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ah_emlrtRTEI = { 48,/* lineNo */
   24,                                  /* colNo */
   "repelem",                           /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elmat\\repelem.m"/* pName */
 };
 
 static emlrtRTEInfo bh_emlrtRTEI = { 323,/* lineNo */
   11,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ch_emlrtRTEI = { 323,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo dh_emlrtRTEI = { 324,/* lineNo */
   1,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo eh_emlrtRTEI = { 319,/* lineNo */
   5,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo dk_emlrtRTEI = { 282,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo ek_emlrtRTEI = { 283,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo fk_emlrtRTEI = { 279,/* lineNo */
   42,                                  /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 static emlrtRTEInfo gk_emlrtRTEI = { 280,/* lineNo */
   9,                                   /* colNo */
   "mexable_calculateLOS",              /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mexable_calculateLOS.m"/* pName */
 };
 
 /* Function Declarations */

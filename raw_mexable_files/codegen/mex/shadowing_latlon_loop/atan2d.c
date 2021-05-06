@@ -22,7 +22,7 @@
 /* Variable Definitions */
 static emlrtRSInfo ug_emlrtRSI = { 12, /* lineNo */
   "atan2d",                            /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\atan2d.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\atan2d.m"/* pathName */
 };
 
 /* Function Definitions */

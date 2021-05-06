@@ -20,26 +20,22 @@
 /* Variable Definitions */
 static emlrtRSInfo n_emlrtRSI = { 36,  /* lineNo */
   "mark_diviner_testpoints",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pathName */
 };
 
 static emlrtRSInfo o_emlrtRSI = { 37,  /* lineNo */
   "mark_diviner_testpoints",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pathName */
 };
 
 static emlrtRSInfo p_emlrtRSI = { 40,  /* lineNo */
   "mark_diviner_testpoints",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pathName */
 };
 
 static emlrtRSInfo q_emlrtRSI = { 43,  /* lineNo */
   "mark_diviner_testpoints",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pathName */
 };
 
 static emlrtBCInfo tc_emlrtBCI = { -1, /* iFirst */
@@ -48,8 +44,7 @@ static emlrtBCInfo tc_emlrtBCI = { -1, /* iFirst */
   19,                                  /* colNo */
   "lat_arr",                           /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -59,8 +54,7 @@ static emlrtBCInfo uc_emlrtBCI = { -1, /* iFirst */
   25,                                  /* colNo */
   "long_arr",                          /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -68,32 +62,28 @@ static emlrtECInfo d_emlrtECI = { 2,   /* nDims */
   44,                                  /* lineNo */
   28,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtECInfo e_emlrtECI = { 2,   /* nDims */
   44,                                  /* lineNo */
   63,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtECInfo f_emlrtECI = { 2,   /* nDims */
   44,                                  /* lineNo */
   100,                                 /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtECInfo g_emlrtECI = { 2,   /* nDims */
   44,                                  /* lineNo */
   137,                                 /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtBCInfo vc_emlrtBCI = { -1, /* iFirst */
@@ -102,8 +92,7 @@ static emlrtBCInfo vc_emlrtBCI = { -1, /* iFirst */
   27,                                  /* colNo */
   "sample_timepoints",                 /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -113,8 +102,7 @@ static emlrtBCInfo wc_emlrtBCI = { -1, /* iFirst */
   36,                                  /* colNo */
   "sample_timepoints",                 /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -124,8 +112,7 @@ static emlrtBCInfo xc_emlrtBCI = { -1, /* iFirst */
   37,                                  /* colNo */
   "sample_surface_temperatures",       /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -135,8 +122,7 @@ static emlrtBCInfo yc_emlrtBCI = { -1, /* iFirst */
   46,                                  /* colNo */
   "sample_surface_temperatures",       /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -146,8 +132,7 @@ static emlrtBCInfo ad_emlrtBCI = { -1, /* iFirst */
   57,                                  /* colNo */
   "diviner_data.T_arr",                /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -157,8 +142,7 @@ static emlrtBCInfo bd_emlrtBCI = { -1, /* iFirst */
   48,                                  /* colNo */
   "diviner_data.jd_arr",               /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -168,8 +152,7 @@ static emlrtBCInfo cd_emlrtBCI = { -1, /* iFirst */
   9,                                   /* colNo */
   "sample_timepoints",                 /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -179,114 +162,98 @@ static emlrtBCInfo dd_emlrtBCI = { -1, /* iFirst */
   9,                                   /* colNo */
   "sample_surface_temperatures",       /* aName */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m",                                /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo hc_emlrtRTEI = { 24,/* lineNo */
   34,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo ic_emlrtRTEI = { 25,/* lineNo */
   44,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo jc_emlrtRTEI = { 44,/* lineNo */
   28,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo kc_emlrtRTEI = { 44,/* lineNo */
   63,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo lc_emlrtRTEI = { 44,/* lineNo */
   100,                                 /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo mc_emlrtRTEI = { 44,/* lineNo */
   137,                                 /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo nc_emlrtRTEI = { 1,/* lineNo */
   63,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo oc_emlrtRTEI = { 51,/* lineNo */
   9,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo pc_emlrtRTEI = { 52,/* lineNo */
   9,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo qc_emlrtRTEI = { 36,/* lineNo */
   1,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo rc_emlrtRTEI = { 37,/* lineNo */
   1,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo sc_emlrtRTEI = { 40,/* lineNo */
   5,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo tc_emlrtRTEI = { 43,/* lineNo */
   9,                                   /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo uc_emlrtRTEI = { 47,/* lineNo */
   57,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 static emlrtRTEInfo vc_emlrtRTEI = { 48,/* lineNo */
   48,                                  /* colNo */
   "mark_diviner_testpoints",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\mark_diviner_testpoints"
-  ".m"                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\mark_diviner_testpoints.m"/* pName */
 };
 
 /* Function Definitions */

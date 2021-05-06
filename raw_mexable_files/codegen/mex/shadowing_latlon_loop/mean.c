@@ -19,17 +19,17 @@
 /* Variable Definitions */
 static emlrtRSInfo fb_emlrtRSI = { 49, /* lineNo */
   "mean",                              /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\datafun\\mean.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\datafun\\mean.m"/* pathName */
 };
 
 static emlrtRSInfo gb_emlrtRSI = { 133,/* lineNo */
   "combineVectorElements",             /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\datafun\\private\\combineVectorElements.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\datafun\\private\\combineVectorElements.m"/* pathName */
 };
 
 static emlrtRSInfo hb_emlrtRSI = { 194,/* lineNo */
   "colMajorFlatIter",                  /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\datafun\\private\\combineVectorElements.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\datafun\\private\\combineVectorElements.m"/* pathName */
 };
 
 /* Function Definitions */

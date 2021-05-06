@@ -31,72 +31,72 @@
 /* Variable Definitions */
 static emlrtRSInfo emlrtRSI = { 6,     /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo b_emlrtRSI = { 83,  /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo c_emlrtRSI = { 85,  /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo d_emlrtRSI = { 183, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo e_emlrtRSI = { 209, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo f_emlrtRSI = { 210, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo g_emlrtRSI = { 230, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo h_emlrtRSI = { 252, /* lineNo */
+static emlrtRSInfo h_emlrtRSI = { 253, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo i_emlrtRSI = { 279, /* lineNo */
+static emlrtRSInfo i_emlrtRSI = { 280, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo j_emlrtRSI = { 293, /* lineNo */
+static emlrtRSInfo j_emlrtRSI = { 294, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo k_emlrtRSI = { 300, /* lineNo */
+static emlrtRSInfo k_emlrtRSI = { 301, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo l_emlrtRSI = { 301, /* lineNo */
+static emlrtRSInfo l_emlrtRSI = { 302, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
-static emlrtRSInfo m_emlrtRSI = { 302, /* lineNo */
+static emlrtRSInfo m_emlrtRSI = { 303, /* lineNo */
   "shadowing_latlon_loop",             /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pathName */
 };
 
 static emlrtRSInfo y_emlrtRSI = { 38,  /* lineNo */
   "fprintf",                           /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\iofun\\fprintf.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\iofun\\fprintf.m"/* pathName */
 };
 
 static emlrtBCInfo emlrtBCI = { -1,    /* iFirst */
@@ -105,7 +105,7 @@ static emlrtBCInfo emlrtBCI = { -1,    /* iFirst */
   82,                                  /* colNo */
   "sample_surface_temperatures",       /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -115,7 +115,7 @@ static emlrtBCInfo b_emlrtBCI = { -1,  /* iFirst */
   73,                                  /* colNo */
   "sample_surface_temperatures",       /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -125,7 +125,7 @@ static emlrtBCInfo c_emlrtBCI = { -1,  /* iFirst */
   62,                                  /* colNo */
   "sample_timepoints",                 /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -135,251 +135,251 @@ static emlrtBCInfo d_emlrtBCI = { -1,  /* iFirst */
   53,                                  /* colNo */
   "sample_timepoints",                 /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtECInfo emlrtECI = { -1,    /* nDims */
-  295,                                 /* lineNo */
+  296,                                 /* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtBCInfo e_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  295,                                 /* lineNo */
+  296,                                 /* lineNo */
   29,                                  /* colNo */
   "Tmin_3dmat",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo f_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  295,                                 /* lineNo */
+  296,                                 /* lineNo */
   20,                                  /* colNo */
   "Tmin_3dmat",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtECInfo b_emlrtECI = { -1,  /* nDims */
-  296,                                 /* lineNo */
+  297,                                 /* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtBCInfo g_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  296,                                 /* lineNo */
+  297,                                 /* lineNo */
   29,                                  /* colNo */
   "Tmax_3dmat",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo h_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  296,                                 /* lineNo */
+  297,                                 /* lineNo */
   20,                                  /* colNo */
   "Tmax_3dmat",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo i_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  276,                                 /* lineNo */
+  277,                                 /* lineNo */
   55,                                  /* colNo */
   "aspect_matrix",                     /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo j_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  276,                                 /* lineNo */
+  277,                                 /* lineNo */
   45,                                  /* colNo */
   "aspect_matrix",                     /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo k_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  275,                                 /* lineNo */
+  276,                                 /* lineNo */
   53,                                  /* colNo */
   "slope_matrix",                      /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo l_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  275,                                 /* lineNo */
+  276,                                 /* lineNo */
   43,                                  /* colNo */
   "slope_matrix",                      /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo m_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  274,                                 /* lineNo */
+  275,                                 /* lineNo */
   53,                                  /* colNo */
   "elevation_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo n_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  274,                                 /* lineNo */
+  275,                                 /* lineNo */
   43,                                  /* colNo */
   "elevation_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo o_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  265,                                 /* lineNo */
+  266,                                 /* lineNo */
   34,                                  /* colNo */
   "long_arr",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo p_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  254,                                 /* lineNo */
+  255,                                 /* lineNo */
   57,                                  /* colNo */
   "ns_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo q_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  254,                                 /* lineNo */
+  255,                                 /* lineNo */
   54,                                  /* colNo */
   "ns_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo r_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  254,                                 /* lineNo */
+  255,                                 /* lineNo */
   32,                                  /* colNo */
   "ns_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo s_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  254,                                 /* lineNo */
+  255,                                 /* lineNo */
   29,                                  /* colNo */
   "ns_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo t_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  253,                                 /* lineNo */
+  254,                                 /* lineNo */
   62,                                  /* colNo */
   "ew_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo u_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  253,                                 /* lineNo */
+  254,                                 /* lineNo */
   53,                                  /* colNo */
   "ew_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo v_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  253,                                 /* lineNo */
+  254,                                 /* lineNo */
   38,                                  /* colNo */
   "ew_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo w_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  253,                                 /* lineNo */
+  254,                                 /* lineNo */
   29,                                  /* colNo */
   "ew_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo x_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  248,                                 /* lineNo */
+  246,                                 /* lineNo */
   73,                                  /* colNo */
   "rho_matrix",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo y_emlrtBCI = { -1,  /* iFirst */
   -1,                                  /* iLast */
-  248,                                 /* lineNo */
+  246,                                 /* lineNo */
   64,                                  /* colNo */
   "rho_matrix",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ab_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  247,                                 /* lineNo */
+  245,                                 /* lineNo */
   69,                                  /* colNo */
   "Kc_3dmat",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo bb_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  247,                                 /* lineNo */
+  245,                                 /* lineNo */
   60,                                  /* colNo */
   "Kc_3dmat",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -389,7 +389,7 @@ static emlrtBCInfo cb_emlrtBCI = { -1, /* iFirst */
   34,                                  /* colNo */
   "T_3dmat",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -399,14 +399,14 @@ static emlrtBCInfo db_emlrtBCI = { -1, /* iFirst */
   25,                                  /* colNo */
   "T_3dmat",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo d_emlrtRTEI = { 157,/* lineNo */
   17,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtBCInfo eb_emlrtBCI = { -1, /* iFirst */
@@ -415,21 +415,21 @@ static emlrtBCInfo eb_emlrtBCI = { -1, /* iFirst */
   75,                                  /* colNo */
   "Kc_3dmat",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo e_emlrtRTEI = { 148,/* lineNo */
   25,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtECInfo c_emlrtECI = { 2,   /* nDims */
   117,                                 /* lineNo */
   33,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtBCInfo fb_emlrtBCI = { -1, /* iFirst */
@@ -438,7 +438,7 @@ static emlrtBCInfo fb_emlrtBCI = { -1, /* iFirst */
   100,                                 /* colNo */
   "H_matrix",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -448,7 +448,7 @@ static emlrtBCInfo gb_emlrtBCI = { -1, /* iFirst */
   90,                                  /* colNo */
   "H_matrix",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -458,75 +458,75 @@ static emlrtBCInfo hb_emlrtBCI = { -1, /* iFirst */
   23,                                  /* colNo */
   "z_arr",                             /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo f_emlrtRTEI = { 102,/* lineNo */
   25,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtDCInfo emlrtDCI = { 91,    /* lineNo */
   48,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo b_emlrtDCI = { 91,  /* lineNo */
   48,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   4                                    /* checkKind */
 };
 
 static emlrtDCInfo c_emlrtDCI = { 144, /* lineNo */
   49,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo d_emlrtDCI = { 155, /* lineNo */
   15,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo e_emlrtDCI = { 156, /* lineNo */
   15,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtBCInfo ib_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  297,                                 /* lineNo */
+  298,                                 /* lineNo */
   24,                                  /* colNo */
   "jd_error_3dmat",                    /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo jb_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  297,                                 /* lineNo */
+  298,                                 /* lineNo */
   33,                                  /* colNo */
   "jd_error_3dmat",                    /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo f_emlrtDCI = { 91,  /* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -536,7 +536,7 @@ static emlrtBCInfo kb_emlrtBCI = { -1, /* iFirst */
   14,                                  /* colNo */
   "init_temps",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -546,7 +546,7 @@ static emlrtBCInfo lb_emlrtBCI = { -1, /* iFirst */
   16,                                  /* colNo */
   "H_matrix",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -556,7 +556,7 @@ static emlrtBCInfo mb_emlrtBCI = { -1, /* iFirst */
   17,                                  /* colNo */
   "T_3dmat",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -566,21 +566,21 @@ static emlrtBCInfo nb_emlrtBCI = { -1, /* iFirst */
   17,                                  /* colNo */
   "T_3dmat",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo g_emlrtDCI = { 144, /* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo h_emlrtDCI = { 155, /* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -590,7 +590,7 @@ static emlrtBCInfo ob_emlrtBCI = { -1, /* iFirst */
   78,                                  /* colNo */
   "rho_matrix",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -600,7 +600,7 @@ static emlrtBCInfo pb_emlrtBCI = { -1, /* iFirst */
   13,                                  /* colNo */
   "Kc_3dmat",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -610,7 +610,7 @@ static emlrtBCInfo qb_emlrtBCI = { -1, /* iFirst */
   47,                                  /* colNo */
   "Kc_3dmat",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -620,14 +620,14 @@ static emlrtBCInfo rb_emlrtBCI = { -1, /* iFirst */
   9,                                   /* colNo */
   "B_surface_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo i_emlrtDCI = { 156, /* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -637,7 +637,7 @@ static emlrtBCInfo sb_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -647,7 +647,7 @@ static emlrtBCInfo tb_emlrtBCI = { -1, /* iFirst */
   29,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -657,7 +657,7 @@ static emlrtBCInfo ub_emlrtBCI = { -1, /* iFirst */
   50,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -667,7 +667,7 @@ static emlrtBCInfo vb_emlrtBCI = { -1, /* iFirst */
   70,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -677,7 +677,7 @@ static emlrtBCInfo wb_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -687,7 +687,7 @@ static emlrtBCInfo xb_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "p_arr",                             /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -697,7 +697,7 @@ static emlrtBCInfo yb_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "dz_arr",                            /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -707,7 +707,7 @@ static emlrtBCInfo ac_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "q_arr",                             /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -717,7 +717,7 @@ static emlrtBCInfo bc_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "lat_arr",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -727,7 +727,7 @@ static emlrtBCInfo cc_emlrtBCI = { -1, /* iFirst */
   16,                                  /* colNo */
   "long_arr",                          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -737,7 +737,7 @@ static emlrtBCInfo dc_emlrtBCI = { -1, /* iFirst */
   18,                                  /* colNo */
   "slope_matrix",                      /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -747,7 +747,7 @@ static emlrtBCInfo ec_emlrtBCI = { -1, /* iFirst */
   19,                                  /* colNo */
   "aspect_matrix",                     /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -757,7 +757,7 @@ static emlrtBCInfo fc_emlrtBCI = { -1, /* iFirst */
   14,                                  /* colNo */
   "elevation_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -767,289 +767,289 @@ static emlrtBCInfo gc_emlrtBCI = { -1, /* iFirst */
   45,                                  /* colNo */
   "elevation_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo hc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  241,                                 /* lineNo */
+  239,                                 /* lineNo */
   45,                                  /* colNo */
   "A0_matrix",                         /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ic_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  242,                                 /* lineNo */
+  240,                                 /* lineNo */
   67,                                  /* colNo */
   "a_OVER_pi_OVER_4_POWER_3_matrix",   /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo jc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  243,                                 /* lineNo */
+  241,                                 /* lineNo */
   67,                                  /* colNo */
   "b_OVER_pi_OVER_2_POWER_8_matrix",   /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo kc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  245,                                 /* lineNo */
+  243,                                 /* lineNo */
   59,                                  /* colNo */
   "thermal_emission_matrix",           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo lc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  246,                                 /* lineNo */
+  244,                                 /* lineNo */
   52,                                  /* colNo */
   "B_surface_matrix",                  /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo mc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  257,                                 /* lineNo */
+  258,                                 /* lineNo */
   34,                                  /* colNo */
   "vis_normalisation_matrix",          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo nc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  263,                                 /* lineNo */
+  264,                                 /* lineNo */
   20,                                  /* colNo */
   "lat_arr",                           /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo oc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  269,                                 /* lineNo */
+  270,                                 /* lineNo */
   24,                                  /* colNo */
   "vis_matrix",                        /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo pc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  281,                                 /* lineNo */
+  282,                                 /* lineNo */
   21,                                  /* colNo */
   "absorbed_vis_coeff_local",          /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo qc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  282,                                 /* lineNo */
+  283,                                 /* lineNo */
   21,                                  /* colNo */
   "emitted_absorbed_ir_coeff_local",   /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo rc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  297,                                 /* lineNo */
+  298,                                 /* lineNo */
   9,                                   /* colNo */
   "jd_error_3dmat",                    /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo sc_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  298,                                 /* lineNo */
+  299,                                 /* lineNo */
   9,                                   /* colNo */
   "T_error_3dmat",                     /* aName */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo gb_emlrtRTEI = { 54,/* lineNo */
   5,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo hb_emlrtRTEI = { 59,/* lineNo */
   5,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo ib_emlrtRTEI = { 65,/* lineNo */
   5,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo jb_emlrtRTEI = { 71,/* lineNo */
   5,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo kb_emlrtRTEI = { 77,/* lineNo */
   5,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo lb_emlrtRTEI = { 84,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo mb_emlrtRTEI = { 86,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo nb_emlrtRTEI = { 87,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo ob_emlrtRTEI = { 91,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo pb_emlrtRTEI = { 117,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo qb_emlrtRTEI = { 122,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo rb_emlrtRTEI = { 125,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo sb_emlrtRTEI = { 144,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo tb_emlrtRTEI = { 145,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo ub_emlrtRTEI = { 155,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo vb_emlrtRTEI = { 156,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo wb_emlrtRTEI = { 183,/* lineNo */
   1,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo xb_emlrtRTEI = { 135,/* lineNo */
   31,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo yb_emlrtRTEI = { 230,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo ac_emlrtRTEI = { 247,/* lineNo */
+static emlrtRTEInfo ac_emlrtRTEI = { 245,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo bc_emlrtRTEI = { 248,/* lineNo */
+static emlrtRTEInfo bc_emlrtRTEI = { 246,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo cc_emlrtRTEI = { 259,/* lineNo */
+static emlrtRTEInfo cc_emlrtRTEI = { 260,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo dc_emlrtRTEI = { 260,/* lineNo */
+static emlrtRTEInfo dc_emlrtRTEI = { 261,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo ec_emlrtRTEI = { 297,/* lineNo */
+static emlrtRTEInfo ec_emlrtRTEI = { 298,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
-static emlrtRTEInfo fc_emlrtRTEI = { 298,/* lineNo */
+static emlrtRTEInfo fc_emlrtRTEI = { 299,/* lineNo */
   9,                                   /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRTEInfo gc_emlrtRTEI = { 237,/* lineNo */
   17,                                  /* colNo */
   "shadowing_latlon_loop",             /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_latlon_loop.m"/* pName */
 };
 
 static emlrtRSInfo nh_emlrtRSI = { 66, /* lineNo */
   "fprintf",                           /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\iofun\\fprintf.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\iofun\\fprintf.m"/* pathName */
 };
 
 /* Function Declarations */
@@ -1621,7 +1621,6 @@ void shadowing_latlon_loop(const emlrtStack *sp, const emxArray_real_T *z_arr,
     b_matrix->data[i1] = 0.0;
   }
 
-  /* PREALLOC */
   i1 = lat_arr->size[1];
   for (long1_idx = 0; long1_idx < i1; long1_idx++) {
     i2 = long_arr->size[1];
@@ -2139,6 +2138,9 @@ void shadowing_latlon_loop(const emlrtStack *sp, const emxArray_real_T *z_arr,
       }
 
       /*         %% GENERATE 1-BOUNCE FLUX COEFFICIENT ON-THE-FLY */
+      /*  This whole section is a bit confused. I think significant parts */
+      /*  of this calculation are unecessary - does this viewshed function */
+      /*  actually achieve anything?  */
       st.site = &h_emlrtRSI;
       mexable_viewshed(&st, raytracing_params->elevation_matrix, lat,
                        long_arr->data[long_idx], r_moon, r_moon,

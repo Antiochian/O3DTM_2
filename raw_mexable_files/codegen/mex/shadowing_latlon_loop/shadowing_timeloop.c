@@ -22,78 +22,78 @@
 #include "mwmathutil.h"
 
 /* Variable Definitions */
-static emlrtRSInfo jf_emlrtRSI = { 76, /* lineNo */
+static emlrtRSInfo jf_emlrtRSI = { 84, /* lineNo */
   "shadowing_timeloop",                /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
 };
 
-static emlrtRSInfo kf_emlrtRSI = { 92, /* lineNo */
+static emlrtRSInfo kf_emlrtRSI = { 100,/* lineNo */
   "shadowing_timeloop",                /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
 };
 
-static emlrtRSInfo lf_emlrtRSI = { 100,/* lineNo */
+static emlrtRSInfo lf_emlrtRSI = { 108,/* lineNo */
   "shadowing_timeloop",                /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
 };
 
-static emlrtRSInfo mf_emlrtRSI = { 101,/* lineNo */
+static emlrtRSInfo mf_emlrtRSI = { 109,/* lineNo */
   "shadowing_timeloop",                /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
 };
 
-static emlrtRSInfo nf_emlrtRSI = { 102,/* lineNo */
+static emlrtRSInfo nf_emlrtRSI = { 110,/* lineNo */
   "shadowing_timeloop",                /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pathName */
 };
 
 static emlrtRSInfo ih_emlrtRSI = { 29, /* lineNo */
   "reshapeSizeChecks",                 /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pathName */
 };
 
 static emlrtRSInfo jh_emlrtRSI = { 109,/* lineNo */
   "computeDimsData",                   /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pathName */
 };
 
 static emlrtBCInfo mg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  116,                                 /* lineNo */
+  124,                                 /* lineNo */
   9,                                   /* colNo */
   "T_error_local",                     /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ng_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  97,                                  /* lineNo */
+  105,                                 /* lineNo */
   31,                                  /* colNo */
   "sample_t_idx",                      /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo og_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  95,                                  /* lineNo */
+  103,                                 /* lineNo */
   9,                                   /* colNo */
   "sample_T_bounds",                   /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo pg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  121,                                 /* lineNo */
+  129,                                 /* lineNo */
   9,                                   /* colNo */
   "T_error_local",                     /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -103,7 +103,7 @@ static emlrtBCInfo qg_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sample_t_idx",                      /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -113,31 +113,31 @@ static emlrtBCInfo rg_emlrtBCI = { -1, /* iFirst */
   5,                                   /* colNo */
   "sample_weights",                    /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo sg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  69,                                  /* lineNo */
-  1,                                   /* colNo */
+  70,                                  /* lineNo */
+  5,                                   /* colNo */
   "sample_t_idx",                      /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtDCInfo bb_emlrtDCI = { 55, /* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   1                                    /* checkKind */
 };
 
 static emlrtDCInfo cb_emlrtDCI = { 55, /* lineNo */
   22,                                  /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   1                                    /* checkKind */
 };
 
@@ -147,144 +147,134 @@ static emlrtBCInfo tg_emlrtBCI = { -1, /* iFirst */
   41,                                  /* colNo */
   "sample_timepoints_local",           /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo ug_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  75,                                  /* lineNo */
-  36,                                  /* colNo */
-  "sample_t_idx",                      /* aName */
+  89,                                  /* lineNo */
+  28,                                  /* colNo */
+  "t_arr",                             /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo vg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  81,                                  /* lineNo */
-  28,                                  /* colNo */
-  "t_arr",                             /* aName */
+  92,                                  /* lineNo */
+  29,                                  /* colNo */
+  "theta_arr",                         /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo wg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  84,                                  /* lineNo */
-  29,                                  /* colNo */
-  "theta_arr",                         /* aName */
+  103,                                 /* lineNo */
+  62,                                  /* colNo */
+  "T_new_arr",                         /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo xg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  95,                                  /* lineNo */
-  62,                                  /* colNo */
-  "T_new_arr",                         /* aName */
+  118,                                 /* lineNo */
+  56,                                  /* colNo */
+  "sample_surface_temperatures_local", /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtBCInfo yg_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  110,                                 /* lineNo */
-  56,                                  /* colNo */
-  "sample_surface_temperatures_local", /* aName */
-  "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
-  0                                    /* checkKind */
-};
-
-static emlrtBCInfo ah_emlrtBCI = { -1, /* iFirst */
-  -1,                                  /* iLast */
-  112,                                 /* lineNo */
+  120,                                 /* lineNo */
   33,                                  /* colNo */
   "sample_weights",                    /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo db_emlrtRTEI = { 52,/* lineNo */
   13,                                  /* colNo */
   "reshapeSizeChecks",                 /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\reshapeSizeChecks.m"/* pName */
 };
 
-static emlrtBCInfo bh_emlrtBCI = { -1, /* iFirst */
+static emlrtBCInfo ah_emlrtBCI = { -1, /* iFirst */
   -1,                                  /* iLast */
-  111,                                 /* lineNo */
+  119,                                 /* lineNo */
   40,                                  /* colNo */
   "sample_T_bounds",                   /* aName */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m",/* pName */
   0                                    /* checkKind */
 };
 
 static emlrtRTEInfo jk_emlrtRTEI = { 17,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo kk_emlrtRTEI = { 18,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo lk_emlrtRTEI = { 19,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo mk_emlrtRTEI = { 52,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo nk_emlrtRTEI = { 55,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo ok_emlrtRTEI = { 56,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo pk_emlrtRTEI = { 57,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
-static emlrtRTEInfo qk_emlrtRTEI = { 92,/* lineNo */
+static emlrtRTEInfo qk_emlrtRTEI = { 100,/* lineNo */
   97,                                  /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 static emlrtRTEInfo rk_emlrtRTEI = { 64,/* lineNo */
   67,                                  /* colNo */
   "binaryMinOrMax",                    /* fName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\eml\\+coder\\+internal\\binaryMinOrMax.m"/* pName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\eml\\+coder\\+internal\\binaryMinOrMax.m"/* pName */
 };
 
-static emlrtRTEInfo sk_emlrtRTEI = { 76,/* lineNo */
+static emlrtRTEInfo sk_emlrtRTEI = { 84,/* lineNo */
   1,                                   /* colNo */
   "shadowing_timeloop",                /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\shadowing_timeloop.m"/* pName */
 };
 
 /* Function Definitions */
@@ -312,16 +302,15 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
   emxArray_real_T *theta_arr;
   emxArray_real_T *z;
   real_T bottom_layer_idx_local;
-  real_T d;
   real_T depth_update_wait_t_local;
   real_T dj;
   real_T exact_idx;
   real_T lower_idx;
+  real_T upcoming_sample_idx;
   int32_T i;
   int32_T i1;
   int32_T loop_ub;
   int32_T sample_idx;
-  uint32_T upcoming_sample_idx_ptr;
   boolean_T HAS_EVER_BEEN_ILLUMINATED;
   st.prev = sp;
   st.tls = sp->tls;
@@ -420,20 +409,20 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
   i = sample_t_idx->size[0] * sample_t_idx->size[1];
   sample_t_idx->size[0] = 1;
   emxEnsureCapacity_real_T(sp, sample_t_idx, i, &nk_emlrtRTEI);
-  d = 2.0 * (real_T)sample_timepoints_local->size[1];
-  if (d != (int32_T)d) {
-    emlrtIntegerCheckR2012b(d, &cb_emlrtDCI, sp);
+  upcoming_sample_idx = 2.0 * (real_T)sample_timepoints_local->size[1];
+  if (upcoming_sample_idx != (int32_T)upcoming_sample_idx) {
+    emlrtIntegerCheckR2012b(upcoming_sample_idx, &cb_emlrtDCI, sp);
   }
 
   i = sample_t_idx->size[0] * sample_t_idx->size[1];
-  sample_t_idx->size[1] = (int32_T)d;
+  sample_t_idx->size[1] = (int32_T)upcoming_sample_idx;
   emxEnsureCapacity_real_T(sp, sample_t_idx, i, &nk_emlrtRTEI);
-  d = 2.0 * (real_T)sample_timepoints_local->size[1];
-  if (d != (int32_T)d) {
-    emlrtIntegerCheckR2012b(d, &bb_emlrtDCI, sp);
+  upcoming_sample_idx = 2.0 * (real_T)sample_timepoints_local->size[1];
+  if (upcoming_sample_idx != (int32_T)upcoming_sample_idx) {
+    emlrtIntegerCheckR2012b(upcoming_sample_idx, &bb_emlrtDCI, sp);
   }
 
-  loop_ub = (int32_T)d;
+  loop_ub = (int32_T)upcoming_sample_idx;
   for (i = 0; i < loop_ub; i++) {
     sample_t_idx->data[i] = rtNaN;
   }
@@ -476,44 +465,53 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
     }
 
     sample_weights->data[sample_idx] = exact_idx - lower_idx;
-    d = 2.0 * ((real_T)sample_idx + 1.0);
+    upcoming_sample_idx = 2.0 * ((real_T)sample_idx + 1.0);
     loop_ub = sample_t_idx->size[1];
-    if (((int32_T)(d + -1.0) < 1) || ((int32_T)(d + -1.0) > sample_t_idx->size[1]))
-    {
-      emlrtDynamicBoundsCheckR2012b((int32_T)(d + -1.0), 1, sample_t_idx->size[1],
+    if (((int32_T)(upcoming_sample_idx + -1.0) < 1) || ((int32_T)
+         (upcoming_sample_idx + -1.0) > sample_t_idx->size[1])) {
+      emlrtDynamicBoundsCheckR2012b((int32_T)(upcoming_sample_idx + -1.0), 1,
+        sample_t_idx->size[1], &qg_emlrtBCI, sp);
+    }
+
+    sample_t_idx->data[(int32_T)(upcoming_sample_idx + -1.0) - 1] = lower_idx;
+    if (((int32_T)upcoming_sample_idx < 1) || ((int32_T)upcoming_sample_idx >
+         loop_ub)) {
+      emlrtDynamicBoundsCheckR2012b((int32_T)upcoming_sample_idx, 1, loop_ub,
         &qg_emlrtBCI, sp);
     }
 
-    sample_t_idx->data[(int32_T)(d + -1.0) - 1] = lower_idx;
-    if (((int32_T)d < 1) || ((int32_T)d > loop_ub)) {
-      emlrtDynamicBoundsCheckR2012b((int32_T)d, 1, loop_ub, &qg_emlrtBCI, sp);
-    }
-
-    sample_t_idx->data[(int32_T)d - 1] = muDoubleScalarCeil(exact_idx);
+    sample_t_idx->data[(int32_T)upcoming_sample_idx - 1] = muDoubleScalarCeil
+      (exact_idx);
     if (*emlrtBreakCheckR2012bFlagVar != 0) {
       emlrtBreakCheckR2012b(sp);
     }
   }
 
-  if (sample_t_idx->size[1] < 1) {
-    emlrtDynamicBoundsCheckR2012b(sample_t_idx->size[1], 1, sample_t_idx->size[1],
-      &sg_emlrtBCI, sp);
-  }
+  if (sample_t_idx->size[1] != 0) {
+    if (sample_t_idx->size[1] < 1) {
+      emlrtDynamicBoundsCheckR2012b(sample_t_idx->size[1], 1, sample_t_idx->
+        size[1], &sg_emlrtBCI, sp);
+    }
 
-  sample_t_idx->data[sample_t_idx->size[1] - 1] = 0.0;
+    sample_t_idx->data[sample_t_idx->size[1] - 1] = 0.0;
 
-  /* dummy value, never reached */
-  /* track the currently-in-demand t_idx using a pointer index "upcoming_sample_idx_ptr" */
-  /*  and "upcoming_sample_idx" for the actual value (save lookup time) */
-  upcoming_sample_idx_ptr = 1U;
+    /* dummy value, never reached */
+    /* track the currently-in-demand t_idx using a pointer index "upcoming_sample_idx_ptr" */
+    /*  and "upcoming_sample_idx" for the actual value (save lookup time) */
+    dj = 1.0;
 
-  /* this redundant phrasing is to demonstrate how the update process works */
-  if (1 > sample_t_idx->size[1]) {
-    emlrtDynamicBoundsCheckR2012b(1, 1, sample_t_idx->size[1], &ug_emlrtBCI, sp);
+    /* this redundant phrasing is to demonstrate how the update process works */
+    upcoming_sample_idx = sample_t_idx->data[0];
+  } else {
+    dj = -1.0;
+    upcoming_sample_idx = -1.0;
+
+    /* never reach */
   }
 
   emxInit_real_T(sp, &theta_arr, 2, &sk_emlrtRTEI, true);
-  dj = sample_t_idx->data[0];
+
+  /*  RAYTRACING STEP */
   st.site = &jf_emlrtRSI;
   raytrace_pixel(&st, lat, b_long, raytracing_params->t_calculation_step_length,
                  raytracing_params->t_calculation_steps,
@@ -538,13 +536,13 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
     i1 = sample_idx + 1;
     if ((i1 < 1) || (i1 > temperature_parameters->t_arr->size[1])) {
       emlrtDynamicBoundsCheckR2012b(i1, 1, temperature_parameters->t_arr->size[1],
-        &vg_emlrtBCI, sp);
+        &ug_emlrtBCI, sp);
     }
 
     /* seconds since diviner start data */
     /*     %% Calculate theta */
     if (i1 > theta_arr->size[1]) {
-      emlrtDynamicBoundsCheckR2012b(i1, 1, theta_arr->size[1], &wg_emlrtBCI, sp);
+      emlrtDynamicBoundsCheckR2012b(i1, 1, theta_arr->size[1], &vg_emlrtBCI, sp);
     }
 
     if ((!HAS_EVER_BEEN_ILLUMINATED) && (!muDoubleScalarIsNaN(theta_arr->
@@ -570,27 +568,24 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
       temperature_parameters->t_arr->data[sample_idx], dz_arr, T_new_arr);
 
     /*  %% FIND TEST ERRORS */
-    if ((real_T)sample_idx + 1.0 == dj) {
+    if ((real_T)sample_idx + 1.0 == upcoming_sample_idx) {
       if (1 > T_new_arr->size[2]) {
-        emlrtDynamicBoundsCheckR2012b(1, 1, T_new_arr->size[2], &xg_emlrtBCI, sp);
+        emlrtDynamicBoundsCheckR2012b(1, 1, T_new_arr->size[2], &wg_emlrtBCI, sp);
       }
 
-      if (((int32_T)upcoming_sample_idx_ptr < 1) || ((int32_T)
-           upcoming_sample_idx_ptr > sample_T_bounds->size[1])) {
-        emlrtDynamicBoundsCheckR2012b((int32_T)upcoming_sample_idx_ptr, 1,
-          sample_T_bounds->size[1], &og_emlrtBCI, sp);
+      if (((int32_T)dj < 1) || ((int32_T)dj > sample_T_bounds->size[1])) {
+        emlrtDynamicBoundsCheckR2012b((int32_T)dj, 1, sample_T_bounds->size[1],
+          &og_emlrtBCI, sp);
       }
 
-      sample_T_bounds->data[(int32_T)upcoming_sample_idx_ptr - 1] =
-        T_new_arr->data[0];
-      upcoming_sample_idx_ptr++;
-      if (((int32_T)upcoming_sample_idx_ptr < 1) || ((int32_T)
-           upcoming_sample_idx_ptr > sample_t_idx->size[1])) {
-        emlrtDynamicBoundsCheckR2012b((int32_T)upcoming_sample_idx_ptr, 1,
-          sample_t_idx->size[1], &ng_emlrtBCI, sp);
+      sample_T_bounds->data[(int32_T)dj - 1] = T_new_arr->data[0];
+      dj++;
+      if (((int32_T)dj < 1) || ((int32_T)dj > sample_t_idx->size[1])) {
+        emlrtDynamicBoundsCheckR2012b((int32_T)dj, 1, sample_t_idx->size[1],
+          &ng_emlrtBCI, sp);
       }
 
-      dj = sample_t_idx->data[(int32_T)upcoming_sample_idx_ptr - 1];
+      upcoming_sample_idx = sample_t_idx->data[(int32_T)dj - 1];
     }
 
     if ((temperature_parameters->t_arr->data[sample_idx] >=
@@ -740,24 +735,25 @@ void shadowing_timeloop(const emlrtStack *sp, const emxArray_real_T *T_arr,
       i1 = sample_idx + 1;
       if ((i1 < 1) || (i1 > c_sample_surface_temperatures_l->size[1])) {
         emlrtDynamicBoundsCheckR2012b(i1, 1,
-          c_sample_surface_temperatures_l->size[1], &yg_emlrtBCI, sp);
+          c_sample_surface_temperatures_l->size[1], &xg_emlrtBCI, sp);
       }
 
-      d = 2.0 * ((real_T)sample_idx + 1.0);
-      if (((int32_T)(d + -1.0) < 1) || ((int32_T)(d + -1.0) >
+      upcoming_sample_idx = 2.0 * ((real_T)sample_idx + 1.0);
+      if (((int32_T)(upcoming_sample_idx + -1.0) < 1) || ((int32_T)
+           (upcoming_sample_idx + -1.0) > sample_T_bounds->size[1])) {
+        emlrtDynamicBoundsCheckR2012b((int32_T)(upcoming_sample_idx + -1.0), 1,
+          sample_T_bounds->size[1], &ah_emlrtBCI, sp);
+      }
+
+      if (((int32_T)upcoming_sample_idx < 1) || ((int32_T)upcoming_sample_idx >
            sample_T_bounds->size[1])) {
-        emlrtDynamicBoundsCheckR2012b((int32_T)(d + -1.0), 1,
-          sample_T_bounds->size[1], &bh_emlrtBCI, sp);
-      }
-
-      if (((int32_T)d < 1) || ((int32_T)d > sample_T_bounds->size[1])) {
-        emlrtDynamicBoundsCheckR2012b((int32_T)d, 1, sample_T_bounds->size[1],
-          &bh_emlrtBCI, sp);
+        emlrtDynamicBoundsCheckR2012b((int32_T)upcoming_sample_idx, 1,
+          sample_T_bounds->size[1], &ah_emlrtBCI, sp);
       }
 
       if (i1 > sample_weights->size[1]) {
         emlrtDynamicBoundsCheckR2012b(i1, 1, sample_weights->size[1],
-          &ah_emlrtBCI, sp);
+          &yg_emlrtBCI, sp);
       }
 
       if (((int32_T)(sample_idx + 1U) < 1) || ((int32_T)(sample_idx + 1U) >

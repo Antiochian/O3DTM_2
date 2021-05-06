@@ -19,7 +19,7 @@
 /* Variable Definitions */
 static emlrtRSInfo ab_emlrtRSI = { 34, /* lineNo */
   "tic",                               /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\timefun\\tic.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\timefun\\tic.m"/* pathName */
 };
 
 /* Function Definitions */

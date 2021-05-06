@@ -22,7 +22,7 @@
 /* Variable Definitions */
 static emlrtRSInfo if_emlrtRSI = { 59, /* lineNo */
   "my_geodetic2aer",                   /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\raw_mexable_files\\my_geodetic2aer.m"/* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\raw_mexable_files\\my_geodetic2aer.m"/* pathName */
 };
 
 /* Function Definitions */

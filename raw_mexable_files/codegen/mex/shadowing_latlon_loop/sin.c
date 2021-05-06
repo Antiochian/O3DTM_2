@@ -20,7 +20,7 @@
 /* Variable Definitions */
 static emlrtRSInfo mc_emlrtRSI = { 11, /* lineNo */
   "sin",                               /* fcnName */
-  "C:\\Program Files\\MATLAB\\R2020b\\toolbox\\eml\\lib\\matlab\\elfun\\sin.m"/* pathName */
+  "D:\\Program Files\\MATLAB\\toolbox\\eml\\lib\\matlab\\elfun\\sin.m"/* pathName */
 };
 
 /* Function Definitions */

@@ -23,38 +23,32 @@
 /* Variable Definitions */
 static emlrtRSInfo bf_emlrtRSI = { 13, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtRSInfo cf_emlrtRSI = { 14, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtRSInfo df_emlrtRSI = { 24, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtRSInfo ef_emlrtRSI = { 25, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtRSInfo gf_emlrtRSI = { 56, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtRSInfo hf_emlrtRSI = { 57, /* lineNo */
   "scattering_coefficients",           /* fcnName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m"                                  /* pathName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m"/* pathName */
 };
 
 static emlrtBCInfo qe_emlrtBCI = { -1, /* iFirst */
@@ -63,8 +57,7 @@ static emlrtBCInfo qe_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "A0_matrix",                         /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -74,8 +67,7 @@ static emlrtBCInfo re_emlrtBCI = { -1, /* iFirst */
   44,                                  /* colNo */
   "a_OVER_pi_OVER_4_POWER_3_matrix",   /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -85,8 +77,7 @@ static emlrtBCInfo se_emlrtBCI = { -1, /* iFirst */
   120,                                 /* colNo */
   "b_OVER_pi_OVER_2_POWER_8_matrix",   /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -96,8 +87,7 @@ static emlrtBCInfo te_emlrtBCI = { -1, /* iFirst */
   11,                                  /* colNo */
   "A0_matrix",                         /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -107,8 +97,7 @@ static emlrtBCInfo ue_emlrtBCI = { -1, /* iFirst */
   44,                                  /* colNo */
   "a_OVER_pi_OVER_4_POWER_3_matrix",   /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -118,8 +107,7 @@ static emlrtBCInfo ve_emlrtBCI = { -1, /* iFirst */
   120,                                 /* colNo */
   "b_OVER_pi_OVER_2_POWER_8_matrix",   /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -129,8 +117,7 @@ static emlrtBCInfo we_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "emissivity_matrix",                 /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
@@ -140,8 +127,7 @@ static emlrtBCInfo xe_emlrtBCI = { -1, /* iFirst */
   15,                                  /* colNo */
   "emissivity_matrix",                 /* aName */
   "scattering_coefficients",           /* fName */
-  "\\\\rivendell.physics.ox.ac.uk\\user\\students\\2017\\trin3161\\Documents\\O3DTM_stripped_down\\helper functions\\scattering_coefficients."
-  "m",                                 /* pName */
+  "D:\\Home\\Documents\\MATLAB\\O3DTM2\\helper functions\\scattering_coefficients.m",/* pName */
   0                                    /* checkKind */
 };
 
