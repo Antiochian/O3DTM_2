@@ -66,13 +66,18 @@ for sample_idx = 1:numel(sample_timepoints_local)
     sample_t_idx(2*sample_idx-1 : 2*sample_idx) = [lower_idx, upper_idx];
     sample_weights(sample_idx) = remainder;  
 end
-sample_t_idx(end) = 0; %dummy value, never reached
+if ~isempty(sample_t_idx)
+    sample_t_idx(end) = 0; %dummy value, never reached
+    
+    %track the currently-in-demand t_idx using a pointer index "upcoming_sample_idx_ptr"
+    % and "upcoming_sample_idx" for the actual value (save lookup time)
+    upcoming_sample_idx_ptr = 1; %this redundant phrasing is to demonstrate how the update process works
+    upcoming_sample_idx = sample_t_idx(1);
+else
+    upcoming_sample_idx = -1; %never reach
+end
 
-%track the currently-in-demand t_idx using a pointer index "upcoming_sample_idx_ptr"
-% and "upcoming_sample_idx" for the actual value (save lookup time)
 
-upcoming_sample_idx_ptr = 1; %this redundant phrasing is to demonstrate how the update process works
-upcoming_sample_idx = sample_t_idx(1);
 
 %% RAYTRACING STEP
 theta_arr = raytrace_pixel(lat, long, raytracing_params, local_raytracing_params);
