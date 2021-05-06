@@ -229,6 +229,7 @@ fig.Position = [fig.Position(1) fig.Position(2) 0 0] + fig.PaperPosition;
 drawnow
 
 saveas(gcf, output_filename);
+fprintf("Plot saved to %s", output_filename);
 
 %% Helper subroutines
 function label_subroutine(axis_labels)
